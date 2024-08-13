@@ -10,7 +10,7 @@ Python
 
 Clone o repositório:
 ```sh
-git clone https://github.com/SrDouglax/automatricula
+git clone https://github.com/SrDouglax/AutoMatriculas.git
 ```
 
 Instale as dependências:
