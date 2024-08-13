@@ -1,8 +1,6 @@
 import time
 import pyautogui
 
-pyautogui.useImageNotFoundException()
-
 
 def delete_all():
 
