@@ -55,7 +55,7 @@ Para excluir algum período ou disciplina, basta removê-los do arquivo `compone
 
 ### Checar dados:
 
-Após a execução do arquivo `main.py`, você pode verificar a aplicação dos componentes. Para isso, copie e cole uma lista com os IDs das disciplinas no arquivo `data_to_check.txt`, colocando cada ID em uma linha separada. Se algum ID do `components.json` não estiver presente nesta lista, ele será exibido no console.
+Após a execução do arquivo `main.py`, você pode verificar a aplicação dos componentes. Para isso, copie e cole uma lista com os IDs das disciplinas no arquivo `data_to_check.txt`, colocando cada ID em uma linha separada. Se algum ID do `components.json` não estiver presente nesta lista, ele será exibido no console ao executar o arquivo `checker.py` da pasta helpers. 
 
 ## Notas Adicionais
 
