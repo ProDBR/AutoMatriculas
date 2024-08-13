@@ -23,10 +23,11 @@ pip install -r requirements.txt
 ### Preparar Dados:
 
 Copie os dados do PDF com as disciplinas da sua faculdade para o arquivo `dados.txt`. O texto copiado deve estar em um formato compatível com um dos parsers disponíveis.
+[Default data copied](https://3e6095a2-8551-4827-8588-755f3377dd2f.filesusr.com/ugd/01d816_69be6ef675ac47abbf2445f893d06bb9.pdf)
 
 ### Converter Texto para JSON:
 
-Em helpers, execute o script `text_to_json.py` para converter o texto em um arquivo JSON. Altere o parser se necessário.
+Em helpers, execute o script `text_to_json.py` para converter o texto em um arquivo JSON. Altere o parser se necessário. [Result](https://github.com/SrDouglax/AutoMatriculas/blob/main/components.json)
 ```sh
 python helpers/text_to_json.py
 ```
