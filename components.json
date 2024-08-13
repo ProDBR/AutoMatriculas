@@ -1,0 +1,707 @@
+[
+    {
+        "period": "1º",
+        "components": [
+            {
+                "code": "BR273",
+                "name": "BIOFÍSICA A"
+            },
+            {
+                "code": "HE254",
+                "name": "BIOLOGIA CELULAR A"
+            },
+            {
+                "code": "BQ328",
+                "name": "BIOQUÍMICA 1"
+            },
+            {
+                "code": "ML340",
+                "name": "BIOÉTICA"
+            },
+            {
+                "code": "INT0179",
+                "name": "DIREITOS HUMANOS E RELAÇÕES ÉTINICO RACIAIS"
+            },
+            {
+                "code": "GE578",
+                "name": "GEOLOGIA"
+            },
+            {
+                "code": "AT296",
+                "name": "INTRODUÇÃO AO LABORATÓRIO"
+            },
+            {
+                "code": "INT0151",
+                "name": "METODOLOGIA CIENTÍFICA E FILOSOFIA DA CIÊNCIA"
+            },
+            {
+                "code": "INT0154",
+                "name": "MICRORGANISMOS"
+            },
+            {
+                "code": "INT0155",
+                "name": "SISTEMÁTICA E BIOGEOGRAFIA"
+            }
+        ]
+    },
+    {
+        "period": "2º",
+        "components": [
+            {
+                "code": "BQ329",
+                "name": "BIOQUÍMICA 2"
+            },
+            {
+                "code": "BO386",
+                "name": "BOTÂNICA 1"
+            },
+            {
+                "code": "INT0156",
+                "name": "ECOLOGIA 1"
+            },
+            {
+                "code": "GN348",
+                "name": "GENÉTICA 1"
+            },
+            {
+                "code": "HE255",
+                "name": "HISTOLOGIA GERAL A"
+            },
+            {
+                "code": "ML341",
+                "name": "MICOLOGIA 1"
+            },
+            {
+                "code": "ZO396",
+                "name": "ZOOLOGIA 1"
+            }
+        ]
+    },
+    {
+        "period": "3º",
+        "components": [
+            {
+                "code": "INT0157",
+                "name": "BIOESTATÍSTICA"
+            },
+            {
+                "code": "BO387",
+                "name": "BOTÂNICA 2"
+            },
+            {
+                "code": "INT0158",
+                "name": "ECOLOGIA 2"
+            },
+            {
+                "code": "HE256",
+                "name": "EMBRIOLOGIA GERAL A"
+            },
+            {
+                "code": "GN349",
+                "name": "GENÉTICA 2"
+            },
+            {
+                "code": "ML342",
+                "name": "MICOLOGIA 2"
+            },
+            {
+                "code": "GE579",
+                "name": "PALEONTOLOGIA"
+            },
+            {
+                "code": "ZO397",
+                "name": "ZOOLOGIA 2"
+            }
+        ]
+    },
+    {
+        "period": "4º",
+        "components": [
+            {
+                "code": "ZO398",
+                "name": "ANATOMIA COMPARADA"
+            },
+            {
+                "code": "ZO399",
+                "name": "BIOLOGIA DA CONSERVAÇÃO 1"
+            },
+            {
+                "code": "BO388",
+                "name": "BOTÂNICA 3"
+            },
+            {
+                "code": "GN350",
+                "name": "EVOLUÇÃO A"
+            },
+            {
+                "code": "FF268",
+                "name": "FISIOLOGIA COMPARADA"
+            },
+            {
+                "code": "ZO400",
+                "name": "ZOOLOGIA 3"
+            }
+        ]
+    },
+    {
+        "period": "5º",
+        "components": [
+            {
+                "code": "BQ330",
+                "name": "BB APLICAÇÕES DE BIOMOLÉCULAS"
+            },
+            {
+                "code": "INT0162",
+                "name": "BB BIOLOGIA MOLECULAR APLICADA À\nBIOTECNOLOGIA"
+            },
+            {
+                "code": "INT0163",
+                "name": "BB BIOPROSPECÇÃO"
+            },
+            {
+                "code": "BQ331",
+                "name": "BB BIOTECNOLOGIA AMBIENTAL"
+            },
+            {
+                "code": "INT0164",
+                "name": "BB BIOTECNOLOGIA APLICADA AO MELHORAMENTO\nGENÉTICO"
+            },
+            {
+                "code": "AT297",
+                "name": "BB BS BIOSSEGURANÇA A"
+            },
+            {
+                "code": "AN240",
+                "name": "BS ANATOMIA HUMANA 1"
+            },
+            {
+                "code": "FF269",
+                "name": "BS FISIOLOGIA HUMANA"
+            },
+            {
+                "code": "GN351",
+                "name": "BS GENÉTICA HUMANA E MÉDICA"
+            },
+            {
+                "code": "INT0159",
+                "name": "BS IMUNOLOGIA"
+            },
+            {
+                "code": "ML343",
+                "name": "BS INTRODUÇÃO ÀS ANÁLISES CLÍNICAS"
+            },
+            {
+                "code": "ZO403",
+                "name": "EC BIOLOGIA DA CONSERVAÇÃO 2"
+            },
+            {
+                "code": "ZO404",
+                "name": "EC ECOLOGIA DE AMBIENTES AQUÁTICOS"
+            },
+            {
+                "code": "INT0171",
+                "name": "EC ECOLOGIA DE AMBIENTES TERRESTRES"
+            },
+            {
+                "code": "INT0172",
+                "name": "EC ECOLOGIA NUMÉRICA"
+            },
+            {
+                "code": "BO391",
+                "name": "EC ETNOBIOLOGIA"
+            },
+            {
+                "code": "INT0166",
+                "name": "SE COLEÇÕES BIOLÓGICAS"
+            },
+            {
+                "code": "BO389",
+                "name": "SE EVOLUÇÃO DE ALGAS, BRIÓFITAS E PTERIDÓFITAS"
+            },
+            {
+                "code": "ZO401",
+                "name": "SE EVOLUÇÃO DE INVERTEBRADOS"
+            },
+            {
+                "code": "ML344",
+                "name": "SE EVOLUÇÃO DE MICRO-ORGANISMOS"
+            },
+            {
+                "code": "GN354",
+                "name": "SE GENÉTICA DE POPULAÇÕES A"
+            },
+            {
+                "code": "INT0167",
+                "name": "SE SISTEMÁTICA FILOGENÉTICA"
+            },
+            {
+                "code": "INT0168",
+                "name": "SE TAXONOMIA E NOMENCLATURA BIOLÓGICA"
+            }
+        ]
+    },
+    {
+        "period": "6º",
+        "components": [
+            {
+                "code": "GN352",
+                "name": "BB BIOINFORMÁTICA"
+            },
+            {
+                "code": "AT298",
+                "name": "BB BIOTECNOLOGIA INDUSTRIAL"
+            },
+            {
+                "code": "GN353",
+                "name": "BB ENGENHARIA GENÉTICA A"
+            },
+            {
+                "code": "INT0165",
+                "name": "BB GENÔMICA, TRANSCRIPTÔMICA E PROTEÔMICA"
+            },
+            {
+                "code": "FF270",
+                "name": "BS FARMACOLOGIA BÁSICA"
+            },
+            {
+                "code": "BR274",
+                "name": "BS HEMATOLOGIA"
+            },
+            {
+                "code": "INT0160",
+                "name": "BS MICROBIOLOGIA MÉDICA"
+            },
+            {
+                "code": "INT0161",
+                "name": "BS PARASITOLOGIA"
+            },
+            {
+                "code": "INT0173",
+                "name": "EC ECOLOGIA DE CAMPO"
+            },
+            {
+                "code": "BO393",
+                "name": "EC FISIOLOGIA DE PLANTAS SOB ESTRESSE"
+            },
+            {
+                "code": "INT0174",
+                "name": "EC GENÉTICA DA CONSERVAÇÃO"
+            },
+            {
+                "code": "ZO405",
+                "name": "EC MONITORAMENTO AMBIENTAL"
+            },
+            {
+                "code": "ML351",
+                "name": "EC SUSTENTABILIDADE"
+            },
+            {
+                "code": "INT0170",
+                "name": "SE BIOGEOGRAFIA HISTÓRICA"
+            },
+            {
+                "code": "BO390",
+                "name": "SE EVOLUÇÃO DE ANGIOSPERMAS"
+            },
+            {
+                "code": "ZO402",
+                "name": "SE EVOLUÇÃO DE CHORDATA"
+            },
+            {
+                "code": "ML345",
+                "name": "SE EVOLUÇÃO DE FUNGOS"
+            },
+            {
+                "code": "INT0169",
+                "name": "SE HISTÓRIA E FILOSOFIA DO PENSAMENTO EVOLUTIVO"
+            }
+        ]
+    },
+    {
+        "period": "7º",
+        "components": [
+            {
+                "code": "INT0180",
+                "name": "ESTÁGIO OBRIGATÓRIO"
+            }
+        ]
+    },
+    {
+        "period": "8º",
+        "components": [
+            {
+                "code": "INT0181",
+                "name": "TRABALHO DE CONCLUSÃO DE CURSO"
+            }
+        ]
+    },
+    {
+        "period": "SEM PERIODIZAÇÃO",
+        "components": [
+            {
+                "code": "INT0183",
+                "name": "AÇÕES CURRICULARES DE EXTENSÃO"
+            },
+            {
+                "code": "ML346",
+                "name": "AGROECOLOGIA"
+            },
+            {
+                "code": "AN241",
+                "name": "ANATOMIA HUMANA 2"
+            },
+            {
+                "code": "ML347",
+                "name": "ANÁLISE E MODIFICAÇÃO GENÉTICA EM FUNGOS"
+            },
+            {
+                "code": "AT299",
+                "name": "ANÁLISES BACTERIOLÓGICAS DA ÁGUA A"
+            },
+            {
+                "code": "AT300",
+                "name": "ANÁLISES CROMATOGRÁFICAS"
+            },
+            {
+                "code": "BO392",
+                "name": "ARBORIZAÇÃO URBANA E QUALIDADE AMBIENTAL"
+            },
+            {
+                "code": "ML350",
+                "name": "ASSOCIAÇÕES FUNGO - PLANTA A"
+            },
+            {
+                "code": "ML348",
+                "name": "ASSOCIAÇÕES FUNGO-ANIMAL"
+            },
+            {
+                "code": "ML349",
+                "name": "ASSOCIAÇÕES FUNGO-MICRORGANISMO"
+            },
+            {
+                "code": "BO395",
+                "name": "BASES ECOLÓGICAS E EVOLUTIVAS DO\nCOMPORTAMENTO HUMANO"
+            },
+            {
+                "code": "AT301",
+                "name": "BIODEGRADAÇÃO A"
+            },
+            {
+                "code": "AT302",
+                "name": "BIOLOGIA CELULAR DO CÂNCER A"
+            },
+            {
+                "code": "GN355",
+                "name": "BIOLOGIA COMPUTACIONAL"
+            },
+            {
+                "code": "BQ332",
+                "name": "BIOLOGIA DA REPRODUÇÃO ANIMAL A"
+            },
+            {
+                "code": "BO396",
+                "name": "BIOLOGIA DE ALGAS"
+            },
+            {
+                "code": "BO397",
+                "name": "BIOLOGIA DE EPÍFITAS A"
+            },
+            {
+                "code": "ML352",
+                "name": "BIOLOGIA DE MICRORGANISMOS FITOPATOGÊNICOS"
+            },
+            {
+                "code": "ZO406",
+                "name": "BIOLOGIA MARINHA A"
+            },
+            {
+                "code": "BQ333",
+                "name": "BIOLOGIA MOLECULAR APLICADA À SAUDE"
+            },
+            {
+                "code": "ML353",
+                "name": "BIOTECNOLOGIA UTILIZANDO FUNGOS A"
+            },
+            {
+                "code": "INT0175",
+                "name": "BIOÉTICA APLICADA A SAÚDE E BIOTECNOLOGIA"
+            },
+            {
+                "code": "BO398",
+                "name": "BOTÂNICA ECONÔMICA A"
+            },
+            {
+                "code": "ZO407",
+                "name": "CARCINOLOGIA"
+            },
+            {
+                "code": "INT0176",
+                "name": "CITOTAXONOMIA E EVOLUÇÃO CROMOSSÔMICA"
+            },
+            {
+                "code": "BO399",
+                "name": "CIÊNCIA HOLÍSTICA A"
+            },
+            {
+                "code": "ML354",
+                "name": "COLEÇÕES MICOLÓGICAS"
+            },
+            {
+                "code": "ML355",
+                "name": "CONTROLE BIOLÓGICO"
+            },
+            {
+                "code": "ML356",
+                "name": "CONTROLE BIOLÓGICO MICROBIANO"
+            },
+            {
+                "code": "INT0182",
+                "name": "DIAGNÓSTICO MOLECULAR"
+            },
+            {
+                "code": "BO400",
+                "name": "DIVERSIDADE DE PLANTAS EM CAMPO"
+            },
+            {
+                "code": "BO401",
+                "name": "ECOLOGIA DA RESTAURAÇÃO"
+            },
+            {
+                "code": "BO402",
+                "name": "ECOLOGIA DE BRIÓFITAS E PTERIDÓFITAS"
+            },
+            {
+                "code": "ML357",
+                "name": "ECOLOGIA DE FUNGOS A"
+            },
+            {
+                "code": "BO403",
+                "name": "ECOLOGIA DE PAISAGENS"
+            },
+            {
+                "code": "ZO408",
+                "name": "ECOLOGIA DE PRAIAS ARENOSAS"
+            },
+            {
+                "code": "BO404",
+                "name": "ECOLOGIA QUÍMICA A"
+            },
+            {
+                "code": "AT303",
+                "name": "ELEMENTOS DE MATEMÁTICA"
+            },
+            {
+                "code": "BC419",
+                "name": "EMPREENDEDORISMO"
+            },
+            {
+                "code": "ZO409",
+                "name": "ENTOMOLOGIA"
+            },
+            {
+                "code": "ZO410",
+                "name": "ENTOMOLOGIA APLICADA"
+            },
+            {
+                "code": "ZO411",
+                "name": "ENTOMOLOGIA EM AGROECOSSISTEMAS"
+            },
+            {
+                "code": "ML358",
+                "name": "EPIDEMIOLOGIA AMBIENTAL A"
+            },
+            {
+                "code": "BQ334",
+                "name": "ERROS INATOS DO METABOLISMO"
+            },
+            {
+                "code": "BO405",
+                "name": "ESPECIAÇÃO"
+            },
+            {
+                "code": "ZO412",
+                "name": "ETOLOGIA"
+            },
+            {
+                "code": "ML360",
+                "name": "EXAMES MICOLÓGICOS A"
+            },
+            {
+                "code": "GN356",
+                "name": "FILOGENIA MOLECULAR E GENÔMICA COMPARATIVA"
+            },
+            {
+                "code": "FF271",
+                "name": "FISIOLOGIA DA CONSERVAÇÃO"
+            },
+            {
+                "code": "PO494",
+                "name": "FUNDAMENTOS DA LÍNGUA BRASILEIRA DE SINAIS -\nLIBRAS"
+            },
+            {
+                "code": "AT304",
+                "name": "FUNDAMENTOS DE ANTIBIÓTICOS A"
+            },
+            {
+                "code": "AT305",
+                "name": "FUNDAMENTOS DE CANCEROLOGIA EXPERIMENTAL A"
+            },
+            {
+                "code": "ML361",
+                "name": "FUNGOS DE INTERESSE ECONÔMICO"
+            },
+            {
+                "code": "GN357",
+                "name": "GENÉTICA E CITOGENÉTICA HUMANA A"
+            },
+            {
+                "code": "GN358",
+                "name": "GENÉTICA FORENSE A"
+            },
+            {
+                "code": "ZO413",
+                "name": "HERPETOLOGIA"
+            },
+            {
+                "code": "HE257",
+                "name": "HISTOLOGIA E EMBRIOLOGIA DOS SISTEMAS A"
+            },
+            {
+                "code": "GN359",
+                "name": "IMUNOGENÉTICA"
+            },
+            {
+                "code": "BO406",
+                "name": "INTERAÇÃO PLANTA-ANIMAL A"
+            },
+            {
+                "code": "AT306",
+                "name": "INTERAÇÃO PLANTA-BACTÉRIA A"
+            },
+            {
+                "code": "HE258",
+                "name": "INTRODUÇÃO AO CULTIVO DE CÉLULAS A"
+            },
+            {
+                "code": "INT0178",
+                "name": "LIMNOLOGIA"
+            },
+            {
+                "code": "GN360",
+                "name": "MARCADORES MOLECULARES EM ANÁLISE GENÉTICA"
+            },
+            {
+                "code": "ZO414",
+                "name": "MASTOZOOLOGIA A"
+            },
+            {
+                "code": "ML363",
+                "name": "MICOLOGIA DE CAMPO"
+            },
+            {
+                "code": "ML364",
+                "name": "MICOLOGIA MÉDICA A"
+            },
+            {
+                "code": "AT307",
+                "name": "MICROBIOLOGIA AMBIENTAL A"
+            },
+            {
+                "code": "AT308",
+                "name": "MICROBIOLOGIA AVANÇADA A"
+            },
+            {
+                "code": "AT309",
+                "name": "MICROBIOLOGIA INDUSTRIAL"
+            },
+            {
+                "code": "GN361",
+                "name": "MUTAGÊNESE AMBIENTAL"
+            },
+            {
+                "code": "GN362",
+                "name": "MUTAGÊNESE APLICADA À SAÚDE"
+            },
+            {
+                "code": "BO407",
+                "name": "MÉTODOS DE ANÁLISES FILOGENÉTICAS"
+            },
+            {
+                "code": "FF272",
+                "name": "MÉTODOS E MODELOS BIOLÓGICOS EM FARMACOLOGIA"
+            },
+            {
+                "code": "ML362",
+                "name": "MÉTODOS EM MICOLOGIA"
+            },
+            {
+                "code": "OC523",
+                "name": "OCEANOGRAFIA GERAL A"
+            },
+            {
+                "code": "ZO415",
+                "name": "ORNITOLOGIA DE CAMPO"
+            },
+            {
+                "code": "GE580",
+                "name": "PALEONTOLOGIA DE CAMPO"
+            },
+            {
+                "code": "BO408",
+                "name": "PLANTAS MEDICINAIS E TÓXICAS"
+            },
+            {
+                "code": "BO409",
+                "name": "POLINIZAÇÃO E REPRODUÇÃO DE ANGIOSPERMAS"
+            },
+            {
+                "code": "AT310",
+                "name": "QUÍMICA E MÉTODOS DE ANÁLISE ESTRUTURAL EM\nPRODUTOS NATURAIS"
+            },
+            {
+                "code": "GN364",
+                "name": "RECURSOS E BANCOS GENÉTICOS"
+            },
+            {
+                "code": "GN365",
+                "name": "REGULAÇÃO DA EXPRESSÃO GÊNICA E EPIGENÉTICA"
+            },
+            {
+                "code": "ML365",
+                "name": "SAÚDE E EDUCAÇÃO SEXUAL A"
+            },
+            {
+                "code": "GN366",
+                "name": "SEMINÁRIO EM GENÉTICA A"
+            },
+            {
+                "code": "FF273",
+                "name": "TENDÊNCIAS TECNO-CIENTÍFICAS EM BIOLOGIA E SAÚDE\nA"
+            },
+            {
+                "code": "FF274",
+                "name": "TENDÊNCIAS TECNO-CIENTÍFICAS EM BIOLOGIA E SAÚDE\nB"
+            },
+            {
+                "code": "ZO417",
+                "name": "TESTES ECOTOXICOLÓGICOS PARA AVALIAÇÃO DA\nPOLUIÇÃO"
+            },
+            {
+                "code": "AT311",
+                "name": "TOXICOLOGIA"
+            },
+            {
+                "code": "ZO416",
+                "name": "TÉCNICAS DE CAMPO EM ECOSSISTEMAS AQUÁTICOS"
+            },
+            {
+                "code": "ZO418",
+                "name": "ZOOLOGIA DE CAMPO: AMBIENTES TERRESTRES"
+            },
+            {
+                "code": "ML359",
+                "name": "ÉTICA AMBIENTAL"
+            }
+        ]
+    }
+]
