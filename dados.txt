@@ -1,1507 +1,690 @@
+COMPONENTE CURRICULAR
+
+TIPO
+
+CH TEÓRICA
+
+CH PRÁTICA
+
+CH TOTAL
+
+CRÉDITOS
+
 PERÍODO: 1º
-COMPONENTE CURRICULAR TIPO CH TEÓRICA CH PRÁTICA CH TOTAL CRÉDITOS
-BR273- BIOFÍSICA A OBRIG 15 30 45 2.0
-PRÉ-REQUISITO: Não há Pré-Requisito para esse Componente Curricular.
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: BR011 OU BR260
-BR011- FISICA E BIOFISICA
-BR260- BIOFÍSICA
-EMENTA: Ensino de conceitos biofísicos básicos, propriedades físico-químicas da água e soluções; métodos biofísicos de análise; biofísica celular e
-molecular; processamento de informações no sistema nervoso; radioatividade: propriedades, características e aplicações.
-HE254- BIOLOGIA CELULAR A OBRIG 30 15 45 2.0
-PRÉ-REQUISITO: Não há Pré-Requisito para esse Componente Curricular.
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: HE212 OU HE231
-HE212- BIOLOGIA CELULAR
-HE231- BIOLOGIA CELULAR
-EMENTA: Estudo da célula eucariótica sob o ponto de vista morfofisiológico. Introdução às principais técnicas aplicadas à morfologia. Utilização de
-modelos práticos para o ensino da disciplina.
-BQ328- BIOQUÍMICA 1 OBRIG 30 15 45 2.0
-PRÉ-REQUISITO: Não há Pré-Requisito para esse Componente Curricular.
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: BQ001 OU BQ310 OU BQ315 OU BQ316
-BQ001- BIOQUIMICA 1
-BQ310- BIOMOLÉCULAS
-BQ315- BIOQUÍMICA
-BQ316- FUNDAMENTOS DE BIOQUÍMICA
-EMENTA: Estudo das propriedades físico-químicas da água e soluções, das estruturas e funções de aminoácidos, proteínas, enzimas, carboidratos,
-lipídeos e ácidos nucleicos; do processo de sinalização celular mediado por hormônios; e dos componentes e processos básicos do
-sistema imunológico.
-ML340- BIOÉTICA OBRIG 15 15 30 1.0
-PRÉ-REQUISITO: Não há Pré-Requisito para esse Componente Curricular.
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: ML324 OU ML333
-ML324- BIOÉTICA
-ML333- ÉTICA NA BIOLOGIA
-EMENTA: Abordagem histórica da ética na ciência; ética no ensino e na pesquisa das Ciências Biológicas; Bioética e meio ambiente. Entendimento
-preliminar sobre Bioética e noções sobre atitudes de um profissional ético frente a dilemas relacionados ao ensaio, pesquisa, meio
-ambiente e divulgação de dados.
-INT0179- DIREITOS HUMANOS E RELAÇÕES ÉTINICO RACIAIS OBRIG 30 0 30 2.0
-PRÉ-REQUISITO: Não há Pré-Requisito para esse Componente Curricular.
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Concepções fundadas nos Direitos Humanos e em seus processos de promoção, proteção, defesa e aplicação na vida cotidiana e cidadã
-de sujeitos de direitos e de responsabilidades individuais e coletivas. Atitudes, posturas e valores que eduquem cidadãos quanto à
-pluralidade étnico-racial, tornando-os capazes de interagir e de negociar objetivos comuns que garantam, a todos, respeito aos direitos
-legais e valorização de identidade, na busca da consolidação da democracia brasileira.
-GE578- GEOLOGIA OBRIG 15 15 30 1.0
-PRÉ-REQUISITO: Não há Pré-Requisito para esse Componente Curricular.
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: GE250 OU GE251
-GE250- GEOLOGIA
-GE251- GEOLOGIA L
-EMENTA: Compreensão sobre os processos geológicos atuantes no interior e na superfície da Terra, assim como a interação entre ambos e sua
-contextualização no tempogeológico.
-AT296- INTRODUÇÃO AO LABORATÓRIO OBRIG 0 30 30 1.0
-PRÉ-REQUISITO: Não há Pré-Requisito para esse Componente Curricular.
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: AT278
-AT278- QUÍMICA EXPERIMENTAL
-EMENTA: Conceitos básicos sobre técnicas analíticas gerais utilizadas nos laboratórios das Ciências Biológicas.
-INT0151- METODOLOGIA CIENTÍFICA E FILOSOFIA DA CIÊNCIA OBRIG 45 0 45 3.0
-PRÉ-REQUISITO: Não há Pré-Requisito para esse Componente Curricular.
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: ZO339
-ZO339- METODOLOGIA CIENTIFICA
-EMENTA: Apresentação e caracterização da metodologia científica. Descrição das fases de um projeto científico: da delimitação do assunto à
-redação dos resultados. Fundamentação do conhecimento científico. Apresentação das principais correntes históricas e atuais da filosofia
-da ciência.
-INT0154- MICRORGANISMOS OBRIG 30 30 60 3.0
-PRÉ-REQUISITO: Não há Pré-Requisito para esse Componente Curricular.
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: ML323
-ML323- MICROBIOLOGIA E IMUNOLOGIA
-EMENTA: Conceitos básicos de vírus, bactérias, arqueobactérias e protozoários abrangendo biologia, ecologia, ciclos de vida e taxonomia destes
-organismos. Histórico da classificação dos grandes grupos de seres vivos, vírus, células rocarióticas e eucarióticas, cactéria e
-arqueobactérias. Grupos estudados: Vírus, Bactérias, Arqueobactérias, Opisthokonta, Excavata, Archeaplastida e Protozoa -
-Retortamonada, Diplomonada, Parabasalia, Heterolobosea, Euglenozoa (Euglenida, Kinetoplastida), Stramenopila, Ciliophora,
-Dinoflagellata, Apicomplexa, Cercozoa, Foraminifera, Radiolaria, Centrohelida, Viridiplantae (parte), Amoebozoa.
-UNIVERSIDADE FEDERAL DE PERNAMBUCO
-PRÓ-REITORIA PARA ASSUNTOS ACADÊMICOS
-Curso: CIÊNCIAS BIOLÓGICAS - BACHARELADO
-Perfil: 5404-1
-Relatório Perfil Curricular
-DATA: 14/2/2020
-SIG@UFPE - Sistema de Informação e Gestão Acadêmica Página 1/18
-PERÍODO: 1º
-COMPONENTE CURRICULAR TIPO CH TEÓRICA CH PRÁTICA CH TOTAL CRÉDITOS
-INT0155- SISTEMÁTICA E BIOGEOGRAFIA OBRIG 30 15 45 2.0
-PRÉ-REQUISITO: Não há Pré-Requisito para esse Componente Curricular.
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: ZO361
-ZO361- SISTEMÁTICA E BIOGEOGRAFIA
-EMENTA: A disciplina introduzirá os conceitos básicos da taxonomia, sistemática filogenética e biogeografia: regras de nomenclatura biológica,
-conceitos e terminologias básicas de homologia, caracteres e grupos filogenéticos; tipos de árvores filogenéticas; definição e tipos de
-agrupamentos filogenéticos; compartilhamento de caracteres (sinapomorfias, lesiomorfias e homoplasias); noções básicas de construção
-filogenética; Introdução a Biogeografia, História da Biogeografia, Especiação, Extinção, Dispersão, Endemismo, Provincialismo e
-Disjunção, Biogeografia de Ilhas.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+IF663-COMPUTACAO L
+
+OBRIG
+
+0
+
+60
+
+60
+
+2.0
+
+SF451-FUNDAMENTOS DA EDUCAÇÃO
+
+OBRIG
+
+60
+
+0
+
+60
+
+4.0
+
+MA054-GEOMETRIA ANALITICA L1
+
+OBRIG
+
+60
+
+0
+
+60
+
+4.0
+
+MA053-MATEMÁTICA L1A
+
+OBRIG
+
+60
+
+0
+
+60
+
+4.0
+
+MA1058-PRINCÍPIOS DE CONTAGEM
+
+OBRIG
+
+60
+
+0
+
+60
+
+4.0
+
+ 
+
 PERÍODO: 2º
-COMPONENTE CURRICULAR TIPO CH TEÓRICA CH PRÁTICA CH TOTAL CRÉDITOS
-BQ329- BIOQUÍMICA 2 OBRIG 45 0 45 3.0
-PRÉ-REQUISITO: Fórmula: BQ328
-BQ328- BIOQUÍMICA 1
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: BQ211
-BQ211- BIOTRANSFORMACOES
-EMENTA: Considerações gerais sobre a matéria e energia nos sistemas biológicos e suas interações com o meio ambiente nutrição e metabolismo;
-bioenergética; glicólise; ciclo do ácido cítrico; fosforilação oxidativa; via das pentoses; gliconeogênese; fotossíntese; metabolismo lipídico e
-dos aminoácidos; hormônios nos vertebrados; hormônios vegetais; integração/regulação metabólica; ciclo do nitrogênio; quimiolitotrofismo
-e respiração anaeróbica; nodulação de leguminosas; compartimentação intracelular.
-BO386- BOTÂNICA 1 OBRIG 30 30 60 3.0
-PRÉ-REQUISITO: Não há Pré-Requisito para esse Componente Curricular.
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: BO341 OU BO359 OU BO360
-BO341- ESTRUTURA VEGETAL
-BO359- FITOMORFOLOGIA
-BO360- ANATOMIA VEGETAL
-EMENTA: Caracterização morfológica e anatômica das estruturas reprodutivas e vegetativas das plantas, associando aspectos filogenéticos a uma
-abordagem evolutiva.
-INT0156- ECOLOGIA 1 OBRIG 30 15 45 2.0
-PRÉ-REQUISITO: Não há Pré-Requisito para esse Componente Curricular.
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: BO346 OU ZO321
-BO346- ECOLOGIA GERAL 1
-ZO321- ECOLOGIA DE POPULACOES
-EMENTA: Definição de ecologia; Introdução à ecologia de populações: abordagem ecológica e evolutiva; escalas espaciais e temporais;
-Metapopulações; Dispersão e distribuição espacial; padrões de distribuição; Discussão de conceitos básicos em demografia e dos
-principais parâmetros populacionais; Apresentação e discussão dos modelos de crescimento populacional exponencial e logístico; Tabelas
-de vida:; natalidade; mortalidade; curvas de sobrevivência; evolução das características demográficas; estratégias de vida; crescimento e
-regulação populacional; modelos de crescimento com lapso temporal; modelos estocásticos; matriz de Leslie. Predação; interação
-predador-presa; Herbivoria; interação hospedeiro-parasita; mutualismo.
-GN348- GENÉTICA 1 OBRIG 30 30 60 3.0
-PRÉ-REQUISITO: Não há Pré-Requisito para esse Componente Curricular.
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: GN003 OU GN006
-GN003- GENETICA MENDELIANA
-GN006- INTRODUCAO A GENETICA
-EMENTA: Apresentação de conhecimentos básicos sobre a evolução dos estudos da Genética; aspectos moleculares, características hereditárias
-(replicação, transcrição, tradução, regulação da expressão gênica, mutação e reparo) em organismos procariotos e eucariotos; ciclo celular
-em eucariotos e procariotos, bem como aspectos da genética do desenvolvimento.
-HE255- HISTOLOGIA GERAL A OBRIG 30 30 60 3.0
-PRÉ-REQUISITO: Fórmula: HE254
-HE254- BIOLOGIA CELULAR A
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: HE011 OU HE241 OU HE245
-HE011- HISTOLOGIA
-HE241- HISTOLOGIA GERAL
-HE245- HISTOLOGIA GERAL
-EMENTA: Compreensão básica dos aspectos celulares, estruturais, morfológicos e funcionais dos diferentes tipos de tecidos.
-ML341- MICOLOGIA 1 OBRIG 30 15 45 2.0
-PRÉ-REQUISITO: Não há Pré-Requisito para esse Componente Curricular.
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: ML335
-ML335- MICOLOGIA GERAL
-EMENTA: Conhecimentos quanto à sistemática e diversidade dos grupos taxonômicos dos fungos.
-ZO396- ZOOLOGIA 1 OBRIG 30 30 60 3.0
-PRÉ-REQUISITO: Não há Pré-Requisito para esse Componente Curricular.
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: ZO340 OU ZO360 OU ZO362 OU ZO379
-ZO340- BIOLOGIA ANIMAL I
-ZO360- INVERTEBRADOS 1
-UNIVERSIDADE FEDERAL DE PERNAMBUCO
-PRÓ-REITORIA PARA ASSUNTOS ACADÊMICOS
-Curso: CIÊNCIAS BIOLÓGICAS - BACHARELADO
-Perfil: 5404-1
-Relatório Perfil Curricular
-DATA: 14/2/2020
-SIG@UFPE - Sistema de Informação e Gestão Acadêmica Página 2/18
-PERÍODO: 2º
-COMPONENTE CURRICULAR TIPO CH TEÓRICA CH PRÁTICA CH TOTAL CRÉDITOS
-ZO362- INVERTEBRADOS 2
-ZO379- INVERTEBRADOS 1
-EMENTA: Origem e Evolução dos Metazoa. Diblásticos e Triploblásticos. Morfologia, biologia e filogenia de Porifera, Cnidaria e Bilateria. Protostomia
-(Lophotrochozoa). Morfologia, biologia e filogenia dos Lophotrochozoa (Trochozoa, Lophophorata, Plathyhelminthes e Gnathifera).
+
+MA045-ÁLGEBRA LINEAR L1
+
+OBRIG
+
+60
+
+0
+
+60
+
+4.0
+
+PRÉ-REQUISITO: MA054-GEOMETRIA ANALÍTICA L1
+
+MA016-CÁLCULO L1A
+
+OBRIG
+
+60
+
+0
+
+60
+
+4.0
+
+PRÉ-REQUISITO: MA053-MATEMÁTICA L1A
+
+FI202-FÍSICA L1
+
+OBRIG
+
+60
+
+0
+
+60
+
+4.0
+
+DE258-GEOMETRIA GRÁFICA
+
+OBRIG
+
+60
+
+0
+
+60
+
+4.0
+
+INT0021-METODOLOGIA DO ENSINO DE MATEMÁTICA 1
+
+OBRIG
+
+90
+
+0
+
+90
+
+6.0
+
+ 
+
 PERÍODO: 3º
-COMPONENTE CURRICULAR TIPO CH TEÓRICA CH PRÁTICA CH TOTAL CRÉDITOS
-INT0157- BIOESTATÍSTICA OBRIG 15 30 45 2.0
-PRÉ-REQUISITO: Não há Pré-Requisito para esse Componente Curricular.
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: BR009 OU BR241 OU BR257 OU ZO342
-BR009- BIOESTATISTICA
-BR241- BIOESTATISTICA 1
-BR257- BIOESTATÍSTICA
-ZO342- ANALISE DE DADOS I
-EMENTA: Noções básicas de estatística, incluindo a descrição dos dados (tipos de dados, medidas, tabelas e gráficos). Noções de probabilidade e
-distribuição normal. Testes de hipóteses, análises uni, bi e multifatoriais.
-BO387- BOTÂNICA 2 OBRIG 30 30 60 3.0
-PRÉ-REQUISITO: Não há Pré-Requisito para esse Componente Curricular.
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: BO246 OU BO248 OU BO342
-BO246- FITOFISIOLOGIA
-BO248- FISIOLOGIA VEGETAL
-BO342- ECOFISIOLOGIA VEGETAL
-EMENTA: Estudo dos processos físicos e biológicos da: fotossíntese, relações hídricas, nutrição mineral, respiração e regulação do desenvolvimento.
-Métodos e técnicas em fisiologia vegetal.
-INT0158- ECOLOGIA 2 OBRIG 30 15 45 2.0
-PRÉ-REQUISITO: Não há Pré-Requisito para esse Componente Curricular.
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: BO346 OU BO361 OU BO374
-BO346- ECOLOGIA GERAL 1
-BO361- ECOLOGIA DE COMUNIDADES E ECOSSISTEMAS
-BO374- ECOLOGIA 2
-EMENTA: Estudo dos processos físicos e biológicos da: fotossíntese, relações hídricas, nutrição mineral, respiração e regulação do desenvolvimento.
-Métodos e técnicas em fisiologia vegetal.
-HE256- EMBRIOLOGIA GERAL A OBRIG 15 15 30 1.0
-PRÉ-REQUISITO: Fórmula: HE254
-HE254- BIOLOGIA CELULAR A
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: HE019 OU HE226
-HE019- EMBRIOLOGIA
-HE226- EMBRIOLOGIA GERAL
-EMENTA: Estudos das primeiras etapas do desenvolvimento ontogenético humano.
-GN349- GENÉTICA 2 OBRIG 30 30 60 3.0
-PRÉ-REQUISITO: Fórmula: GN348
-GN348- GENÉTICA 1
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: GN310
-GN310- GENETICA DE POPULACOES E EVOLUCAO
-EMENTA: Conhecimento sobre herança Mendeliana e suas exceções, bem como de modernas abordagens do estudo da genética de populações;
-análise do status genético das populações atuais, naturais e laboratoriais bem como dos fatores evolutivos.
-ML342- MICOLOGIA 2 OBRIG 15 15 30 1.0
-PRÉ-REQUISITO: Não há Pré-Requisito para esse Componente Curricular.
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: ML335
-ML335- MICOLOGIA GERAL
-EMENTA: Conhecimentos sobre a célula fúngica, nutrição, metabolismo, fatores que atuam sobre o crescimento, hormônios e importância dos
-processos fisiológicos.
-GE579- PALEONTOLOGIA OBRIG 30 15 45 2.0
-PRÉ-REQUISITO: Fórmula: GE578
-GE578- GEOLOGIA
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: GE254 OU GE255
-GE254- PALEONTOLOGIA GERAL
-GE255- PALEONTOLOGIA GERAL L
-EMENTA: Proporcionar através de aulas teóricas e práticas os conceitos, princípios e técnicas da Paleontologia; a compreensão e interpretação do
-registro da Vida ao longo do tempo geológico e sua aplicação no mundo moderno.
-ZO397- ZOOLOGIA 2 OBRIG 30 30 60 3.0
-PRÉ-REQUISITO: Não há Pré-Requisito para esse Componente Curricular.
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: ZO363
-ZO363- INVERTEBRADOS 3
-EMENTA: Morfologia, biologia e filogenia de Ecdisozoa, incluindo Panarthropoda (Onychophora, Tardigrada, Chelicerata, Crustacea, Myriapoda e
-UNIVERSIDADE FEDERAL DE PERNAMBUCO
-PRÓ-REITORIA PARA ASSUNTOS ACADÊMICOS
-Curso: CIÊNCIAS BIOLÓGICAS - BACHARELADO
-Perfil: 5404-1
-Relatório Perfil Curricular
-DATA: 14/2/2020
-SIG@UFPE - Sistema de Informação e Gestão Acadêmica Página 3/18
-PERÍODO: 3º
-COMPONENTE CURRICULAR TIPO CH TEÓRICA CH PRÁTICA CH TOTAL CRÉDITOS
-Hexapoda) e Cycloneuralia (Gastrotricha, Nematoda, Nematomorpha, e Scadilophora)]. Origem e evolução de Chaetognatha. Filogenia e
-diversificação de Metazoa.
+
+ 
+
+ 
+
+ 
+
+MA017-CÁLCULO L2A
+
+OBRIG
+
+60
+
+0
+
+60
+
+4.0
+
+PRÉ-REQUISITO: MA016-CÁLCULO L1A
+
+ 
+
+ 
+
+ 
+
+FI203-FÍSICA L2
+
+OBRIG
+
+60
+
+0
+
+60
+
+4.0
+
+PRÉ-REQUISITO: FI202-FÍSICA L1
+
+MA1056-FUNDAMENTOS DE MATEMÁTICA L
+
+OBRIG
+
+60
+
+0
+
+60
+
+4.0
+
+MA1057-GEOMETRIA PLANA L
+
+OBRIG
+
+60
+
+0
+
+60
+
+4.0
+
+INT0022-METODOLOGIA DO ENSINO DE MATEMÁTICA 2
+
+OBRIG
+
+90
+
+0
+
+90
+
+6.0
+
+ 
+
 PERÍODO: 4º
-COMPONENTE CURRICULAR TIPO CH TEÓRICA CH PRÁTICA CH TOTAL CRÉDITOS
-ZO398- ANATOMIA COMPARADA OBRIG 45 15 60 3.0
-PRÉ-REQUISITO: Não há Pré-Requisito para esse Componente Curricular.
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: ZO350 OU ZO368
-ZO350- ANATOMIA ANIMAL COMPARADA
-ZO368- ANATOMIA COMPARADA ANIMAL
-EMENTA: Anatomia comparada, funcional e evolução do sistema esquelético, tegumentar, respiratório, circulatório, digestório, nervoso, muscular e
-urogenital.
-ZO399- BIOLOGIA DA CONSERVAÇÃO 1 OBRIG 15 15 30 1.0
-PRÉ-REQUISITO: Não há Pré-Requisito para esse Componente Curricular.
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: ZO345 OU ZO367 OU ZO378
-ZO345- ECOLOGIA GERAL II
-ZO367- BIOLOGIA DA CONSERVAÇÃO
-ZO378- BIOLOGIA DA CONSERVAÇÃO
-EMENTA: Introdução à Biologia da Conservação; Importância da Diversidade Biológica, da Integridade Ecológica e da Saúde Ecológica; Conceitos
-para a Compreensão da Diversidade Biológica, da Integridade Ecológica e da Saúde Ecológica; Ameaças à Diversidade Biológica, à
-Integridade Ecológica e à Saúde Ecológica; Proteção e Restauração da Diversidade Biológica, da Integridade Ecológica e da Saúde
-Ecológica.
-BO388- BOTÂNICA 3 OBRIG 45 30 75 4.0
-PRÉ-REQUISITO: Não há Pré-Requisito para esse Componente Curricular.
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: BO334 OU (BO373 E BO376)
-BO334- SISTEMATICA DOS CRIPTOGAMOS
-BO373 - DIVERSIDADE DE PLANTAS SEM SEMENTES
-BO376- DIVERSIDADE DE PLANTAS COM SEMENTES
-EMENTA: Estudo da diversidade, classificação, evolução e morfologia dos organismos eucariotos fotossintetizantes. Distribuição geográfica,
-importância ecológica e econômica dos grupos biológicos.
-GN350- EVOLUÇÃO A OBRIG 45 0 45 3.0
-PRÉ-REQUISITO: Não há Pré-Requisito para esse Componente Curricular.
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: GN227
-GN227- EVOLUCAO
-EMENTA: A evolução como o eixo central do entendimento da diversidade biológica. Visão teórica e rica exemplos sobre as bases da evolução sob
-um ponto de vista genético. Apresentar o processo evolutivo através de inferência dinâmica, através da exposição de conceitos associados
-a exemplos que os solidifiquem.
-FF268- FISIOLOGIA COMPARADA OBRIG 45 30 75 4.0
-PRÉ-REQUISITO: Fórmula: BQ328
-BQ328- BIOQUÍMICA 1
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: FF232 OU FF240
-FF232- FISIOLOGIA COMPARADA E HUMANA 1
-FF240- FISIOLOGIA ANIMAL COMPARADA
-EMENTA: Estabelecimento de relações entre os sistemas nervoso, cardiorrespiratório, digestório, urinário e endócrino nos ambientes terrestres e
-aquáticos.
-ZO400- ZOOLOGIA 3 OBRIG 60 30 90 5.0
-PRÉ-REQUISITO: Não há Pré-Requisito para esse Componente Curricular.
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: ZO365 OU (ZO366 E ZO381) OU (ZO381 E ZO382)
-ZO365- CHORDATA 1
-ZO366 - CHORDATA 2
-ZO381- CHORDATA 1
-ZO381 - CHORDATA 1
-ZO382- CHORDATA 2
-EMENTA: Morfologia, biologia e filogenia dos Deuterostomia. Morfologia, biologia e classificação de Ambulacraria, Cephalochordata, Urochordata,
-Agnatha, Chondrichthyes, Actinopterygii, Sarcopterygii, Amphibia, Testudines, Lepidosauria, Archosauria, Aves e Mammalia.
+
+MA018-CÁLCULO L3A
+
+OBRIG
+
+60
+
+0
+
+60
+
+4.0
+
+PRÉ-REQUISITO: MA017-CÁLCULO L2A
+
+TE707-DIDÁTICA
+
+OBRIG
+
+60
+
+0
+
+60
+
+4.0
+
+MA1055-GEOMETRIA ESPACIAL
+
+OBRIG
+
+60
+
+0
+
+60
+
+4.0
+
+PRÉ-REQUISITO: MA1057-GEOMETRIA PLANA L
+
+INT0024-METODOLOGIA DO ENSINO DE MATEMÁTICA 3
+
+OBRIG
+
+60
+
+0
+
+60
+
+4.0
+
+PRÉ-REQUISITO: INT0022-METODOLOGIA DO ENSINO DE MATEMÁTICA 2
+
+AP493-POLÍTICAS EDUCACIONAIS-ORGANIZAÇÃO E FUNCIONAMENTO DA ESCOLA BÁSICA
+
+OBRIG
+
+60
+
+0
+
+60
+
+4.0
+
+ 
+
 PERÍODO: 5º
-COMPONENTE CURRICULAR TIPO CH TEÓRICA CH PRÁTICA CH TOTAL CRÉDITOS
-BQ330- BB APLICAÇÕES DE BIOMOLÉCULAS ELETIVO 30 15 45 2.0
-PRÉ-REQUISITO: Fórmula: BQ328
-BQ328- BIOQUÍMICA 1
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: BQ324
-BQ324- APLICAÇÕES TECNOLÓGICAS DE BIOMOLÉCULAS
-EMENTA: Estudo dos fundamentos bioquímicos de processos biotecnológicos e emprego de biomoléculas em tecnologias.
-UNIVERSIDADE FEDERAL DE PERNAMBUCO
-PRÓ-REITORIA PARA ASSUNTOS ACADÊMICOS
-Curso: CIÊNCIAS BIOLÓGICAS - BACHARELADO
-Perfil: 5404-1
-Relatório Perfil Curricular
-DATA: 14/2/2020
-SIG@UFPE - Sistema de Informação e Gestão Acadêmica Página 4/18
-PERÍODO: 5º
-COMPONENTE CURRICULAR TIPO CH TEÓRICA CH PRÁTICA CH TOTAL CRÉDITOS
-INT0162- BB BIOLOGIA MOLECULAR APLICADA À
-BIOTECNOLOGIA
-ELETIVO 30 15 45 2.0
-PRÉ-REQUISITO: Fórmula: BQ328 E GN349
-BQ328 - BIOQUÍMICA 1
-GN349- GENÉTICA 2
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: GN329
-GN329- GENÉTICA MOLECULAR
-EMENTA: Apresentar as principais técnicas de Biologia Molecular e como estas ferramentas podem ser aplicadas no campo da Biotecnologia.
-Tecnonologia do DNA Recombinante, Marcadores genéticos, diagnóstico molecular, transgênicos, terapia gênica, produção de
-biofármacos.
-INT0163- BB BIOPROSPECÇÃO ELETIVO 15 30 45 2.0
-PRÉ-REQUISITO: Não há Pré-Requisito para esse Componente Curricular.
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Biodiversidade e Bioprospecção; Valores socioeconômicos agregados à biodiversidade; Etnobiologia e bioprospecção; Extração,
-caracterização e isolamento de moléculas; Vias metabólicas dos produtos naturais; Métodos de estudo de atividade biológica de produtos
-naturais (modelos in vitro e in vivo); Estudos de casos de bioprospecção vegetal, animal, fúngica e bacteriana; Validação de bioprodutos;
-Propriedade intelectual e transferência de tecnologia.
-BQ331- BB BIOTECNOLOGIA AMBIENTAL ELETIVO 30 15 45 2.0
-PRÉ-REQUISITO: Não há Pré-Requisito para esse Componente Curricular.
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Compreensão dos fundamentos bioquímicos de processos biotecnológicos ligados à tecnologia ambiental (ex. biorremediação,
-biodegradação, tratamento de efluentes e águas residuárias, processos de conversão de biomassa em energia, etc.).
-INT0164- BB BIOTECNOLOGIA APLICADA AO MELHORAMENTO
-GENÉTICO
-ELETIVO 30 30 60 3.0
-PRÉ-REQUISITO: Fórmula: GN349
-GN349- GENÉTICA 2
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Aspectos teóricos e práticos da biotecnologia aplicada ao melhoramento genético vegetal e animal; ferramentas de biologia molecular;
-cultura de tecidos; mapeamento gênico; transgenia; edição genômica
-AT297- BB BS BIOSSEGURANÇA A ELETIVO 30 0 30 2.0
-PRÉ-REQUISITO: Não há Pré-Requisito para esse Componente Curricular.
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: AT263
-AT263- BIOSSEGURANÇA
-EMENTA: Transmitir ao aluno ações voltadas para a prevenção, minimização de riscos inerentes às atividades de pesquisa, produção e prestação de
-serviços, que podem comprometer a saúde do homem, dos animais, dos vegetais, do meio ambiente ou a qualidade dos produtos
-elaborados.
-AN240- BS ANATOMIA HUMANA 1 ELETIVO 15 30 45 2.0
-PRÉ-REQUISITO: Não há Pré-Requisito para esse Componente Curricular.
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: AN001 OU AN222
-AN001- ANATOMIA 1
-AN222- ANATOMIA HUMANA PARA BIÓLOGOS
-EMENTA: Conhecimentos básicos de anatomia humana aplicada as Ciências Biológicas: I) Introdução à Anatomia; e 2) Descrição anatômica dos
-sistemas: Locomotor (osteologja, miologia e artrologia); Circulatório; Respiratório; Digestório, Urinário, Genital Masculino; Genital
-Feminino: Nervoso; Endócrino; e Tegumentar.
-FF269- BS FISIOLOGIA HUMANA ELETIVO 30 15 45 2.0
-PRÉ-REQUISITO: Fórmula: FF268
-FF268- FISIOLOGIA COMPARADA
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: FF001 OU FF233 OU FF255
-FF001- FISIOLOGIA
-FF233- FISIOLOGIA COMPARADA E HUMANA 2
-FF255- FISIOLOGIA HUMANA
-EMENTA: Estabelecer a relação da farmacologia com as Ciências Biológicas e outras ciências que possa permitir ao aluno desenvolver uma análise
-crítica sobre o princípio geral de atuação dos fármacos em diferentes sistemas orgânicos.
-GN351- BS GENÉTICA HUMANA E MÉDICA ELETIVO 30 15 45 2.0
-PRÉ-REQUISITO: Fórmula: GN348
-GN348- GENÉTICA 1
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Aprofundamento do conhecimento da genética humana básica. Estabelecimento das relações entre a genética básica e aplicada.
-Demonstração e entendimento das principais metodologias úteis na área da saúde humana.
-INT0159- BS IMUNOLOGIA ELETIVO 45 0 45 3.0
-PRÉ-REQUISITO: Fórmula: BQ328
-BQ328- BIOQUÍMICA 1
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: PA228
-PA228- IMUNOLOGIA E SOROLOGIA 1A
-EMENTA: Introdução aos conceitos básicos de Imunologia bem como técnicas utilizadas para o estudo do sistema imune. Compreensão da relação
-parasito-hospedeiro.
-ML343- BS INTRODUÇÃO ÀS ANÁLISES CLÍNICAS ELETIVO 30 15 45 2.0
-PRÉ-REQUISITO: Fórmula: BQ329
-BQ329- BIOQUÍMICA 2
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-UNIVERSIDADE FEDERAL DE PERNAMBUCO
-PRÓ-REITORIA PARA ASSUNTOS ACADÊMICOS
-Curso: CIÊNCIAS BIOLÓGICAS - BACHARELADO
-Perfil: 5404-1
-Relatório Perfil Curricular
-DATA: 14/2/2020
-SIG@UFPE - Sistema de Informação e Gestão Acadêmica Página 5/18
-PERÍODO: 5º
-COMPONENTE CURRICULAR TIPO CH TEÓRICA CH PRÁTICA CH TOTAL CRÉDITOS
-EMENTA: Conceitos introdutórios às especialidades de um laboratório clínico. As análises clínicas no suporte ao diagnóstico e prevenção de
-doenças, no acompanhamento da terapêutica e na verificação da presença de fatores de risco. Introdução aos principais tipos de exame
-de cada especialidade das análises clínicas. Visitas a laboratórios operantes e discussão de temas relacionados.
-ZO403- EC BIOLOGIA DA CONSERVAÇÃO 2 ELETIVO 30 15 45 2.0
-PRÉ-REQUISITO: Fórmula: ZO399
-ZO399- BIOLOGIA DA CONSERVAÇÃO 1
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: ZO367 OU ZO378
-ZO367- BIOLOGIA DA CONSERVAÇÃO
-ZO378- BIOLOGIA DA CONSERVAÇÃO
-EMENTA: Estratégias para a Conservação da Diversidade Biológica; Enfrentamento às Ameaças à Diversidade Biológica; Conservação de Espécies,
-Populações e Comunidades.
-ZO404- EC ECOLOGIA DE AMBIENTES AQUÁTICOS ELETIVO 15 15 30 1.0
-PRÉ-REQUISITO: Fórmula: INT0156 E INT0158
-INT0156 - ECOLOGIA 1
-INT0158- ECOLOGIA 2
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: ZO376
-ZO376- ECOLOGIA DE ÁGUAS CONTINENTAIS
-EMENTA: Conceitos básicos em ecologia de ambientes oceânicos, estuarinos e continentais.
-INT0171- EC ECOLOGIA DE AMBIENTES TERRESTRES ELETIVO 15 15 30 1.0
-PRÉ-REQUISITO: Fórmula: INT0156 E INT0158
-INT0156 - ECOLOGIA 1
-INT0158- ECOLOGIA 2
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Ecossistemas terrestres. Fluxo de energia. Ciclagem de Nutrientes. Biomas mundiais e biomas brasileiros.
-INT0172- EC ECOLOGIA NUMÉRICA ELETIVO 30 15 45 2.0
-PRÉ-REQUISITO: Fórmula: INT0157
-INT0157- BIOESTATÍSTICA
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Análise da biodiversidade em comunidades biológicas através de técnicas de análise multivariada e índices de diversidade taxonômica,
-funcional e filogenética.
-BO391- EC ETNOBIOLOGIA ELETIVO 30 15 45 2.0
-PRÉ-REQUISITO: Não há Pré-Requisito para esse Componente Curricular.
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Fundamentos da Etnobiologia, com uma breve introdução a sua teoria e interações com diferentes campos do conhecimento.
-INT0166- SE COLEÇÕES BIOLÓGICAS ELETIVO 15 15 30 1.0
-PRÉ-REQUISITO: Não há Pré-Requisito para esse Componente Curricular.
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: História e teoria das coleções biológicas. Legislação e política das coleções. Tipos de acervos
-BO389- SE EVOLUÇÃO DE ALGAS, BRIÓFITAS E PTERIDÓFITAS ELETIVO 15 15 30 1.0
-PRÉ-REQUISITO: Fórmula: BO386
-BO386- BOTÂNICA 1
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: BO334
-BO334- SISTEMATICA DOS CRIPTOGAMOS
-EMENTA: Diversidade e evolução das Algas - Reino Protista e dos vegetais avasculares e vasculares sem sementes ¿ Reino Plantae. Estudo das
-características morfológicas, estruturais e reprodutivas. Classificação e Biogeografia.
-ZO401- SE EVOLUÇÃO DE INVERTEBRADOS ELETIVO 15 15 30 1.0
-PRÉ-REQUISITO: Fórmula: ZO396 E ZO397
-ZO396 - ZOOLOGIA 1
-ZO397- ZOOLOGIA 2
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: ZO364
-ZO364- INVERTEBRADOS 4
-EMENTA: Histórico sobre a sistemática e evolução dos invertebrados, apresentando as propostas atualmente aceitas acerca da evolução e relação
-dos metazoários, tais como origem e irradiação dos Bilateria, Protostomia e Deuterostomia, hipóteses Articulata × Ecdisozoa, origem e
-evolução do Celoma, diversidade larval, Metameria, e origem e evolução do sistema nervoso em Invertebrados.
-ML344- SE EVOLUÇÃO DE MICRO-ORGANISMOS ELETIVO 15 15 30 1.0
-PRÉ-REQUISITO: Fórmula: INT0154
-INT0154- MICRORGANISMOS
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: As principais linhagens modernas de micro-organismos e seus processos e pressões evolutivas. Adaptação e adaptabilidade em
-micro-organismos. Teorias da origem da vida e dos sistemas biológicos. Evolução dos procariotos e eucariotos. Evolução de estratégias
-econutricionais dos micro-organismos. Co-evolução e expansão terrestre da vida. Sistemas de classificação clássicos e modernos dos
-micro-organismos.
-GN354- SE GENÉTICA DE POPULAÇÕES A ELETIVO 30 15 45 2.0
-PRÉ-REQUISITO: Fórmula: GN349 E INT0157
-GN349 - GENÉTICA 2
-INT0157- BIOESTATÍSTICA
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: GN238
-GN238- GENETICA DE POPULACOES
-EMENTA: Histórico da Genética de Populações. Variação genética em populações naturais. Marcadores moleculares; Teorema de Hardy-Weinberg.
-UNIVERSIDADE FEDERAL DE PERNAMBUCO
-PRÓ-REITORIA PARA ASSUNTOS ACADÊMICOS
-Curso: CIÊNCIAS BIOLÓGICAS - BACHARELADO
-Perfil: 5404-1
-Relatório Perfil Curricular
-DATA: 14/2/2020
-SIG@UFPE - Sistema de Informação e Gestão Acadêmica Página 6/18
-PERÍODO: 5º
-COMPONENTE CURRICULAR TIPO CH TEÓRICA CH PRÁTICA CH TOTAL CRÉDITOS
-Endocruzamento. Estrutura hierárquica das populações. Genética molecular de populações. Fatores evolutivos. Fluxo gênico. Mutação.
-Seleção natural. Deriva genética.
-INT0167- SE SISTEMÁTICA FILOGENÉTICA ELETIVO 30 30 60 3.0
-PRÉ-REQUISITO: Fórmula: INT0155
-INT0155- SISTEMÁTICA E BIOGEOGRAFIA
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: ZO324
-ZO324- SISTEMATICA FILOGENETICA
-EMENTA: Histórico da Genética de Populações. Variação genética em populações naturais. Marcadores moleculares; Teorema de Hardy-Weinberg.
-Endocruzamento. Estrutura hierárquica das populações. Genética molecular de populações. Fatores evolutivos. Fluxo gênico. Mutação.
-Seleção natural. Deriva genética.
-INT0168- SE TAXONOMIA E NOMENCLATURA BIOLÓGICA ELETIVO 30 15 45 2.0
-PRÉ-REQUISITO: Fórmula: INT0155
-INT0155- SISTEMÁTICA E BIOGEOGRAFIA
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Abordagem histórica da classificação biológica; princípios de nomenclatura e taxonomia biológica, incluindo descrições de táxons, e
-resolução de problemas taxonômicos e nomenclaturais.
+
+ET199-ESTATÍSTICA E PROBABILIDADES
+
+OBRIG
+
+60
+
+0
+
+60
+
+4.0
+
+PRÉ-REQUISITO: MA1058-PRINCÍPIOS DE CONTAGEM
+
+INT0023-ESTÁGIO SUPERVISIONADO EM MATEMÁTICA 1
+
+OBRIG
+
+30
+
+60
+
+90
+
+4.0
+
+PO494-FUNDAMENTOS DA LÍNGUA BRASILEIRA DE SINAIS ­LIBRAS
+
+OBRIG
+
+60
+
+0
+
+60
+
+4.0
+
+PO492-FUNDAMENTOS PSICOLÓGICOS DA EDUCAÇÃO
+
+OBRIG
+
+90
+
+0
+
+90
+
+6.0
+
+INT0025-METODOLOGIA DO ENSINO DE MATEMÁTICA 4
+
+OBRIG
+
+60
+
+0
+
+60
+
+4.0
+
+PRÉ-REQUISITO: INT0022-METODOLOGIA DO ENSINO DE MATEMÁTICA 2
+
+ 
+
+ 
+
 PERÍODO: 6º
-COMPONENTE CURRICULAR TIPO CH TEÓRICA CH PRÁTICA CH TOTAL CRÉDITOS
-GN352- BB BIOINFORMÁTICA ELETIVO 15 30 45 2.0
-PRÉ-REQUISITO: Fórmula: GN349
-GN349- GENÉTICA 2
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: GN321
-GN321- BIOINFORMÁTICA APLICADA À GENÉTICA
-EMENTA: Noções fundamentais sobre os principais programas computacionais aplicados na análise de sequências de DNA, RNA e proteínas, com
-ênfase em aplicações nas áreas de Ciências Biológicas. Principais etapas para manejo e acesso a bancos de dados e ferramentas para
-análise computacional de sequências gênicas e proteicas. Introdução à identificação de função gênica/proteica, modelagem e simulação
-computacional, busca por domínios conservados e assinaturas gênicas e proteicas. Ferramentas para análise de estrutura genômica.
-Introdução à análise fenética e filogenética.
-AT298- BB BIOTECNOLOGIA INDUSTRIAL ELETIVO 30 15 45 2.0
-PRÉ-REQUISITO: Fórmula: BQ329 E GN349 E HE254 E INT0154
-BQ329 - BIOQUÍMICA 2
-GN349 - GENÉTICA 2
-HE254 - BIOLOGIA CELULAR A
-INT0154- MICRORGANISMOS
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: AT265 OU AT279
-AT265- BIOTECNOLOGIA INDUSTRIAL
-AT279- BIOTECNOLOGIA
-EMENTA: Conceitos e avanços na Biotecnologia Industrial. Biocatalisadores e seus processos industriais. Engenharia Metabólica: aplicações na
-indústria. Processos Biotecnológicos Industriais: enzimáticos e microbianos. Biorreatores: tipos, modos de operação e controle.
-Biosseparação: operações unitárias típicas.
-GN353- BB ENGENHARIA GENÉTICA A ELETIVO 30 15 45 2.0
-PRÉ-REQUISITO: Não há Pré-Requisito para esse Componente Curricular.
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: GN343
-GN343- ENGENHARIA GENÉTICA
-EMENTA: Estudo das tecnologias convencionais e modernas de manipulação da informação genética na construção de organismos geneticamente
-modificados (OGM) que podem ser utilizados em processos industriais e ambientais, na produção de alimentos de origem animal e vegetal
-e no desenvolvimento de produtos e processos aplicáveis à saúde humana e animal e preservação e conservação do ambiente.
-INT0165- BB GENÔMICA, TRANSCRIPTÔMICA E PROTEÔMICA ELETIVO 30 15 45 2.0
-PRÉ-REQUISITO: Fórmula: BQ328 E GN349
-BQ328 - BIOQUÍMICA 1
-GN349- GENÉTICA 2
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: GN326
-GN326- GENÔMICA E PROTEÔMICA
-EMENTA: Princípios, metodologias e técnicas fundamentais em estudos de Genômica, Transcriptômica e Proteômica, enfocando aspectos aplicados
-atuais e permitindo aos alunos desenvolver experimentos em Genética e Biologia Molecular úteis em diversas áreas da Biologia, Medicina
-e Agricultura.
-FF270- BS FARMACOLOGIA BÁSICA ELETIVO 30 15 45 2.0
-PRÉ-REQUISITO: Fórmula: AN240 E FF268
-AN240 - BS ANATOMIA HUMANA 1
-FF268- FISIOLOGIA COMPARADA
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: FF218
-FF218- FARMACOLOGIA 3A
-EMENTA: Estabelecer a relação da farmacologia com as Ciências Biológicas e outras ciências que possa permitir ao aluno desenvolver uma análise
-crítica sobre o princípio geral de atuação dos fármacos em diferentes sistemas orgânicos.
-BR274- BS HEMATOLOGIA ELETIVO 15 30 45 2.0
-PRÉ-REQUISITO: Fórmula: GN349
-GN349- GENÉTICA 2
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-UNIVERSIDADE FEDERAL DE PERNAMBUCO
-PRÓ-REITORIA PARA ASSUNTOS ACADÊMICOS
-Curso: CIÊNCIAS BIOLÓGICAS - BACHARELADO
-Perfil: 5404-1
-Relatório Perfil Curricular
-DATA: 14/2/2020
-SIG@UFPE - Sistema de Informação e Gestão Acadêmica Página 7/18
-PERÍODO: 6º
-COMPONENTE CURRICULAR TIPO CH TEÓRICA CH PRÁTICA CH TOTAL CRÉDITOS
-EQUIVALÊNCIA: Fórmula: BR256
-BR256- EXAMES HEMATOLÓGICOS 1
-EMENTA: Fornecer aos alunos conteúdos teóricos e práticos referente à Hematologia Laboratorial, sua atuação no gerenciamento laboratorial deste
-setor, obtenção e processamento de amostra sanguínea, aplicações de métodos manuais e automatizados utilizados na identificação de
-células sanguíneas, valores de referência e suas variações fisiológicas e patológicas, fatores plasmáticos da coagulação e plaquetas na
-hemostasia e coagulação.
-INT0160- BS MICROBIOLOGIA MÉDICA ELETIVO 30 30 60 3.0
-PRÉ-REQUISITO: Fórmula: INT0154 E ML341 E ML342
-INT0154 - MICRORGANISMOS
-ML341 - MICOLOGIA 1
-ML342- MICOLOGIA 2
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Estudo dos principais micro-organismos causadores de infecções em seres humanos, com ênfase em suas propriedades gerais,
-patogenia, patologia e diagnóstico, enfatizando métodos e procedimentos de coleta, transporte e processamento de amostras clínicas,
-epidemiologia, prevenção e controle.
-INT0161- BS PARASITOLOGIA ELETIVO 30 15 45 2.0
-PRÉ-REQUISITO: Não há Pré-Requisito para esse Componente Curricular.
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: ML330 OU ML334 OU MT217
-ML330- PARASITOLOGIA HUMANA
-ML334- PARASITOLOGIA HUMANA L
-MT217- PARASITOLOGIA 1
-EMENTA: Estudo das parasitoses humanas, com aplicação na saúde, envolvendo transmissão, ciclo evolutivo, sintomatologia, patologia, diagnóstico,
-profilaxia e tratamento, para a formação do biólogo na área de saúde, frente à construção de conhecimentos de parasitologia humana em
-ferramentas de ensino e atividades de educação em saúde.
-INT0173- EC ECOLOGIA DE CAMPO ELETIVO 30 45 75 3.0
-PRÉ-REQUISITO: Fórmula: INT0156 E INT0158
-INT0156 - ECOLOGIA 1
-INT0158- ECOLOGIA 2
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Proporcionar ao aluno capacidade para identificar questões, formular hipóteses, desenvolver metodologias e executar projetos em
-ecologia.
-BO393- EC FISIOLOGIA DE PLANTAS SOB ESTRESSE ELETIVO 30 15 45 2.0
-PRÉ-REQUISITO: Fórmula: BO387
-BO387- BOTÂNICA 2
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Estudo da relação da planta-ambiente, como os principais fatores edafoclimáticos afetam seu desenvolvimento.
-INT0174- EC GENÉTICA DA CONSERVAÇÃO ELETIVO 30 15 45 2.0
-PRÉ-REQUISITO: Fórmula: GN349
-GN349- GENÉTICA 2
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Introdução à Genética da Conservação, incluindo seus conceitos, motivações, metodologias e demandas. Abordagem de fatores históricos
-e recentes que influenciam a distribuição espacial de táxons de interesse e sua diversidade. Apresentação de ferramentas moleculares e
-computacionais aplicáveis às análises de GC em nível inter- e intraespecífico. Treinamento de discentes para realização de análises de
-genética da conservação, incluindo definição de objetivos, delineamento de desenho experimental e testes de hipóteses. Aplicabilidade
-das bases metodológicas, bases evolutivas e da genética de populações na conservação de espécies e ecossistemas.
-ZO405- EC MONITORAMENTO AMBIENTAL ELETIVO 30 15 45 2.0
-PRÉ-REQUISITO: Não há Pré-Requisito para esse Componente Curricular.
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: ZO377
-ZO377- POLUIÇÃO QUÍMICA AMBIENTAL
-EMENTA: Compreensão integrada das fontes e dos efeitos biológicos deletérios de poluentes químicos de origem antropogênica em espécies de
-vida selvagem, mecanismos de toxicidade ao nível molecular e bioquímico, efeitos deletérios em tecidos, órgãos, repertório
-comportamental dos indivíduos, populacõese comunidades; análise de risco ecológico e ecoepidemiologia.
-ML351- EC SUSTENTABILIDADE ELETIVO 30 15 45 2.0
-PRÉ-REQUISITO: Não há Pré-Requisito para esse Componente Curricular.
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Natureza multidisciplinar da sustentabilidade com foco nos efeitos das mudanças climáticas e ações humanas sobre os ecossistemas
-naturais e urbanos.
-INT0170- SE BIOGEOGRAFIA HISTÓRICA ELETIVO 30 15 45 2.0
-PRÉ-REQUISITO: Fórmula: INT0155
-INT0155- SISTEMÁTICA E BIOGEOGRAFIA
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Entendimentodepadrõesbiogeográficosedosprocessosenvolvidosnadistribuiçãogeográficadasespécies.
-BO390- SE EVOLUÇÃO DE ANGIOSPERMAS ELETIVO 15 15 30 1.0
-PRÉ-REQUISITO: Fórmula: BO386 E BO388
-BO386 - BOTÂNICA 1
-BO388- BOTÂNICA 3
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: BO237
-BO237- SISTEMATICA DOS FANEROGAMOS
-EMENTA: Estudo da diversidade, classificação e evolução das principais linhagens de Angiospermas.
-ZO402- SE EVOLUÇÃO DE CHORDATA ELETIVO 15 15 30 1.0
-PRÉ-REQUISITO: Fórmula: ZO396 E ZO397 E ZO400
-ZO396 - ZOOLOGIA 1
-UNIVERSIDADE FEDERAL DE PERNAMBUCO
-PRÓ-REITORIA PARA ASSUNTOS ACADÊMICOS
-Curso: CIÊNCIAS BIOLÓGICAS - BACHARELADO
-Perfil: 5404-1
-Relatório Perfil Curricular
-DATA: 14/2/2020
-SIG@UFPE - Sistema de Informação e Gestão Acadêmica Página 8/18
-PERÍODO: 6º
-COMPONENTE CURRICULAR TIPO CH TEÓRICA CH PRÁTICA CH TOTAL CRÉDITOS
-ZO397 - ZOOLOGIA 2
-ZO400- ZOOLOGIA 3
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: ZO366
-ZO366- CHORDATA 2
-EMENTA: Abordagem da sistemática e evolução dos Chordata, apresentando as propostas atualmente aceitas acerca da evolução e filogenia do
-grupo. Nesse contexto, abordará temas essenciais como a origem e a irradiação de grupos chave como Vertebrata, Gnathostomata,
-Tetrapoda e Amniota. Principais novidades evolutivas (padrões e processos) envolvidas nas hipóteses de surgimento de vértebras
-(Vertebrata) e maxilas (Gnathostomata), a conquista do ambiente terrestre pelos vertebrados (Tetrapoda), o surgimento do ovo amniótico
-(Amniota), evolução das fenestras cranianas (Amniota), do ouvido médio (Mammalia) e do vôo (Pterosauria, Aves e Chiroptera) no grupo.
-ML345- SE EVOLUÇÃO DE FUNGOS ELETIVO 15 15 30 1.0
-PRÉ-REQUISITO: Fórmula: ML341 E ML342
-ML341 - MICOLOGIA 1
-ML342- MICOLOGIA 2
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: ML328 OU ML335
-ML328- FILOGENIA E EVOLUÇÃO DE FUNGOS
-ML335- MICOLOGIA GERAL
-EMENTA: Apresentação da sistemática filogenética como ferramenta para classificação e entendimento de processos evolutivos em fungos;
-obtenção de dados e busca por sequências de DNA em bancos de dados públicos; entendimento sobre as peculiaridades de cada método
-de reconstrução filogenética, como também os procedimentos e cuidados durante as análises e interpretação de resultados.
-INT0169- SE HISTÓRIA E FILOSOFIA DO PENSAMENTO EVOLUTIVO ELETIVO 45 0 45 3.0
-PRÉ-REQUISITO: Não há Pré-Requisito para esse Componente Curricular.
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Caracterização dos conceitos históricos sobre a origem e evolução dos seres vivos. Apresentação dos principais temas de debates atuais
-em filosofia da evolução.
+
+PO493-AVALIAÇÃO DA APRENDIZAGEM
+
+OBRIG
+
+60
+
+0
+
+60
+
+4.0
+
+IF664-COMPUTAÇÃO L2
+
+OBRIG
+
+30
+
+30
+
+60
+
+3.0
+
+PRÉ-REQUISITO: IF663-COMPUTAÇÃO L
+
+MA248-ESTRUTURAS ALGÉBRICAS L1A
+
+OBRIG
+
+90
+
+0
+
+90
+
+6.0
+
+PRÉ-REQUISITO: MA045-ÁLGEBRA LINEAR L1
+
+INT0026-ESTÁGIO SUPERVISIONADO EM MATEMÁTICA 2
+
+OBRIG
+
+45
+
+60
+
+105
+
+5.0
+
+PRÉ-REQUISITO: INT0023-ESTÁGIO SUPERVISIONADO EM MATEMÁTICA 1
+
+AP492-GESTÃO EDUCACIONAL E GESTÃO ESCOLAR
+
+OBRIG
+
+60
+
+0
+
+60
+
+4.0
+
+ 
+
 PERÍODO: 7º
-COMPONENTE CURRICULAR TIPO CH TEÓRICA CH PRÁTICA CH TOTAL CRÉDITOS
-INT0180- ESTÁGIO OBRIGATÓRIO OBRIG 0 360 360 12.0
-PRÉ-REQUISITO: Não há Pré-Requisito para esse Componente Curricular.
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Esta disciplina visa complementar a formação do estudante de Ciências Biológicas, inserindo o discente em atividades relacionadas a
-formação do biólogo, cinetíficas, técnicas e administrativas.
+
+MA218-ANÁLISE MATEMÁTICA L1A
+
+OBRIG
+
+90
+
+0
+
+90
+
+6.0
+
+PRÉ-REQUISITO: MA016-CÁLCULO L1A
+
+MA249-ESTRUTURAS ALGÉBRICAS L2A
+
+OBRIG
+
+90
+
+0
+
+90
+
+6.0
+
+PRÉ-REQUISITO: MA248-ESTRUTURAS ALGÉBRICAS L1A
+
+INT0027-ESTÁGIO SUPERVISIONADO EM MATEMÁTICA 3
+
+OBRIG
+
+45
+
+60
+
+105
+
+5.0
+
+PRÉ-REQUISITO: INT0026-ESTÁGIO SUPERVISIONADO EM MATEMÁTICA 2
+
+MA1060-TRABALHO DE CONCLUSÃO DE CURSO 1
+
+OBRIG
+
+45
+
+0
+
+45
+
+3.0
+
+ 
+
 PERÍODO: 8º
-COMPONENTE CURRICULAR TIPO CH TEÓRICA CH PRÁTICA CH TOTAL CRÉDITOS
-INT0181- TRABALHO DE CONCLUSÃO DE CURSO OBRIG 0 180 180 6.0
-PRÉ-REQUISITO: Não há Pré-Requisito para esse Componente Curricular.
-CO-REQUISITO: Fórmula: INT0180
-INT0180- ESTÁGIO OBRIGATÓRIO
-EMENTA: Esta disciplina visa complementar a formação do estudante com a redação e apresentação dos dados de uma pesquisa científica, de
-revisão de literatura, de ações de mercado, de desenvolvimento de tecnologias, de bioinformática, entre outros desenvolvidos pelo
-estudante de acordo com os princípios éticos, legais e científicos.
+
+MA219-ANÁLISE MATEMÁTICA L2A
+
+OBRIG
+
+90
+
+0
+
+90
+
+6.0
+
+PRÉ-REQUISITO: MA218-ANÁLISE MATEMÁTICA L1A
+
+INT0028-ESTÁGIO SUPERVISIONADO EM MATEMÁTICA 4
+
+OBRIG
+
+45
+
+60
+
+105
+
+5.0
+
+PRÉ-REQUISITO: INT0027-ESTÁGIO SUPERVISIONADO EM MATEMÁTICA 3
+
+MA1059-TRABALHO DE CONCLUSÃO DE CURSO 2
+
+OBRIG
+
+45
+
+0
+
+45
+
+3.0
+
+PRÉ-REQUISITO: MA1060-TRABALHO DE CONCLUSÃO DE CURSO 1
+
+ 
 SEM PERIODIZAÇÃO
-COMPONENTE CURRICULAR TIPO CH TEÓRICA CH PRÁTICA CH TOTAL CRÉDITOS
-INT0183- AÇÕES CURRICULARES DE EXTENSÃO OBRIG 0 360 360 12.0
-PRÉ-REQUISITO: Não há Pré-Requisito para esse Componente Curricular.
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: A Resolução 9/2017 do Conselho Coordenador de Ensino, Pesquisa e Extensão da UFPE dispõe sobre a inserção das Ações Curriculares
-de Extensão nos currículos de graduação, garantindo que pelo menos 10% da carga horária esteja reservada para essas atividades. A
-Extensão Universitária é um processo interdisciplinar, educativo, cultural, científico e político que integra a formação acadêmica,
-profissional e cidadã do discente e promove a relação transformadora entre a Universidade e outros setores da sociedade. Ações
-Curriculares de Extensão constituem até 10% da carga horária total de integralização do Curso de Graduação em Ciências Biológicas,
-exclusivamente na forma de Programas ou Projetos. No Curso de Ciências Biológicas, as Ações Curriculares de Extensão estão
-regulamentadas pela Resolução EBM-5/2017.
-ML346- AGROECOLOGIA ELETIVO 30 30 60 3.0
-PRÉ-REQUISITO: Não há Pré-Requisito para esse Componente Curricular.
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Problemas da agricultura convencional sob os aspectos ecológicos, econômicos e sociais. Agroecologia: conceitos e princípios. A
-transição agroecológica. Agriculturas de base ecológica. Relação das famílias agricultoras com a natureza. Agroecologia e sistemas
-alimentares sustentáveis. Relações estabelecidas nas feiras agroecológicas entre agricultores-feirantes e consumidores.
-AN241- ANATOMIA HUMANA 2 ELETIVO 15 30 45 2.0
-PRÉ-REQUISITO: Fórmula: AN240
-AN240- BS ANATOMIA HUMANA 1
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Conhecimentos de anatomia humana complementar a disciplina de Anatomia Humana 1, com ênfase na estrutura e constituição dos
-órgãos que compõem os Sistemas: Esquelético, Articular, Muscular, Circulatório; Respiratório; Digestório; Urogenital e Nervoso.
-ML347- ANÁLISE E MODIFICAÇÃO GENÉTICA EM FUNGOS ELETIVO 30 15 45 2.0
-PRÉ-REQUISITO: Fórmula: ML341 E ML342
-ML341 - MICOLOGIA 1
-ML342- MICOLOGIA 2
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-UNIVERSIDADE FEDERAL DE PERNAMBUCO
-PRÓ-REITORIA PARA ASSUNTOS ACADÊMICOS
-Curso: CIÊNCIAS BIOLÓGICAS - BACHARELADO
-Perfil: 5404-1
-Relatório Perfil Curricular
-DATA: 14/2/2020
-SIG@UFPE - Sistema de Informação e Gestão Acadêmica Página 9/18
-SEM PERIODIZAÇÃO
-COMPONENTE CURRICULAR TIPO CH TEÓRICA CH PRÁTICA CH TOTAL CRÉDITOS
-EMENTA: Conceitos básicos e técnicas clássicas de observação de DNA no estudo da genética de fungos, principais técnicas moleculares utilizadas
-no estudo genético dos fungos e na produção de linhagens de interesse científico e/ou biotecnológico.
-AT299- ANÁLISES BACTERIOLÓGICAS DA ÁGUA A ELETIVO 15 30 45 2.0
-PRÉ-REQUISITO: Não há Pré-Requisito para esse Componente Curricular.
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: AT280
-AT280- ANÁLISE BACTERIOLÓGICAS DE ÁGUAS
-EMENTA: Fornecer conhecimentos necessários para análises bacteriológicas da água, capacitando ao aluno interpretar os resultados e emitir laudos
-técnicos relativos à potabilidade da água, sob o ponto de vista bacteriológico.
-AT300- ANÁLISES CROMATOGRÁFICAS ELETIVO 15 30 45 2.0
-PRÉ-REQUISITO: Fórmula: AT296
-AT296- INTRODUÇÃO AO LABORATÓRIO
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Introdução aos métodos cromatográficos (cromatografia clássica e cromatografia líquida de alta eficiência-CLAE), instrumentação e
-aplicações.
-BO392- ARBORIZAÇÃO URBANA E QUALIDADE AMBIENTAL ELETIVO 15 45 60 2.0
-PRÉ-REQUISITO: Não há Pré-Requisito para esse Componente Curricular.
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: História e prática da arborização urbana e suas relações com a qualidade de vida da população
-ML350- ASSOCIAÇÕES FUNGO - PLANTA A ELETIVO 30 15 45 2.0
-PRÉ-REQUISITO: Fórmula: ML341 E ML342
-ML341 - MICOLOGIA 1
-ML342- MICOLOGIA 2
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: ML331
-ML331- ASSOCIAÇÕES FUNGO-PLANTA
-EMENTA: Conhecimentos básicos sobre as características gerais, aspectos morfológicos e ecológicos das relações benéficas e maléficas entre
-fungos e plantas; Principais grupos de doenças de plantas; Fungos parasitas biotróficos e necrotróficos; Fungos associados a sementes;
-Histórico e aspectos gerias sobre fungos endofíticos; Fungos epifíticos; História, taxonomia e aplicação dos diferentes tipos de fungos
-micorrízicos.
-ML348- ASSOCIAÇÕES FUNGO-ANIMAL ELETIVO 30 15 45 2.0
-PRÉ-REQUISITO: Fórmula: ML341 E ML342
-ML341 - MICOLOGIA 1
-ML342- MICOLOGIA 2
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Os padrões ecológicos dos fungos: saprotrofismo, reprodução e interação com o meio. Principais interações interespecíficas envolvendo
-fungos e animais. Evolução convergente de estratégias de vida associadas a animais. Fungos zoonecrotróficos: mecanismos de predação
-animal. Micofagia e dentritivoria: consumo de frutificações e propágulos; destruição micelial. Sistemas de defesa: proteção de órgãos e
-preservação de reCursos. Parasitismo fungos-animais: oportunismos em tecidos animais; o paradoxo do biotrofismo fungo-animal.
-Mutualismo fungos-animais: fungos do trato gastrointestinal; Micângios. Comensalismo fungos-animais: laboulbeniomicetos e tricomicetos
-em artrópodes. Animais como agentes dispersores de propágulos. Principais grupos ecológicos de fungos associados a animais. Fungos
-entomófilos: diversidade, ecologia, reprodução e mecanismos de interação. Fungos nematófagos: morfologia, tipos de armadilhas,
-ecologia, reprodução e mecanismos de infecção de ovos e adultos. Fungos coprófilos: diversidade e ecologia, especialização e
-co-evoluçãomorfo-funcional. Animais como habitat: fungos zoofílicos; fatores limitantes. Cultivo de fungos por animais: fungos e formigas
-cortadeiras. Fungos em patologia animal.
-ML349- ASSOCIAÇÕES FUNGO-MICRORGANISMO ELETIVO 30 15 45 2.0
-PRÉ-REQUISITO: Fórmula: INT0154
-INT0154- MICRORGANISMOS
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Os padrões ecológicos dos fungos: saprotrofismo, reprodução e interação com o meio. Principais interações interespecíficas envolvendo
-fungos e micro-organismos. Evolução convergente de estratégias de interação. Fungos e procariotos: competição fungos/bactérias;
-estratégias econutricionais; atividade antimicrobiana, fungos liquenizados: conceitos, natureza de associação, diversidade e
-representatividade. Características gerais dos fotobiontes, o talo linquênico (morfologia, fisiologia, reprodução e principais padrões
-funcionais), ascoliquens e basidioliquens (ecologia, distribuição e propriedades químicas); Fungos no solo e na rizosfera: o rizoplano e sua
-atividade microbiológica; consórcios microbianos e biorremediação. Interações fungos/fungos: antagonismo (inibição, contatohifálico,
-competição), micoparasitismo, estratégias de vida dos fungos, ecologia de assembleias fúngicas. Os micovírus: transmissão;
-disseminação; estratégias de implantação/multiplicação viral; importância econômica das micoviroses. Fungos e outros eucariotos: fungos
-predadores de amebozoários; fungos predadores de invertebrados microscópicos: rotíferos, tardígrados, etc; fungos nematófagos
-(diversidade, estratégias de captura e dispersão, ecologia e importância agrícola); micofagia microbiana.
-BO395- BASES ECOLÓGICAS E EVOLUTIVAS DO
-COMPORTAMENTO HUMANO
-ELETIVO 45 15 60 3.0
-PRÉ-REQUISITO: Não há Pré-Requisito para esse Componente Curricular.
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Introdução aos princípios básicos e disciplinas que procuram entender o comportamento humano a partir de uma perspectiva ecológica e
-evolutiva, com ênfase no comportamento de uso e manejo dos reCursos naturais e suas implicações para a conservação.
-AT301- BIODEGRADAÇÃO A ELETIVO 15 30 45 2.0
-PRÉ-REQUISITO: Não há Pré-Requisito para esse Componente Curricular.
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: AT281
-AT281- BIODEGRADAÇÃO
-EMENTA: Propiciar conhecimentos básicos de biodegradação, focalizando os aspectos microbiológico, químico, ambiental e tecnológico.
-AT302- BIOLOGIA CELULAR DO CÂNCER A ELETIVO 45 0 45 3.0
-PRÉ-REQUISITO: Não há Pré-Requisito para esse Componente Curricular.
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: AT282
-AT282- BIOLOGIA CELULAR DO CÂNCER
-EMENTA: Transmitir aos alunos o conhecimento da biologia celular da célula tumoral, enfatizando o ciclo celular e regulação do crescimento. estudos
-UNIVERSIDADE FEDERAL DE PERNAMBUCO
-PRÓ-REITORIA PARA ASSUNTOS ACADÊMICOS
-Curso: CIÊNCIAS BIOLÓGICAS - BACHARELADO
-Perfil: 5404-1
-Relatório Perfil Curricular
-DATA: 14/2/2020
-SIG@UFPE - Sistema de Informação e Gestão Acadêmica Página 10/18
-SEM PERIODIZAÇÃO
-COMPONENTE CURRICULAR TIPO CH TEÓRICA CH PRÁTICA CH TOTAL CRÉDITOS
-dos oncogêneses e sua relação com o surgimento dos tumores, sinalização da célula tumoral, angiogênese, metástase e novos alvos para
-a terapia do câncer
-GN355- BIOLOGIA COMPUTACIONAL ELETIVO 15 30 45 2.0
-PRÉ-REQUISITO: Fórmula: GN349
-GN349- GENÉTICA 2
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Provimento dabase teórica e prática de reCursos de ciência da computação, matemática e estatística necessários às análises de dados
-biológicos gerados a partir do sequenciamento massal de genomas, transcriptomas e proteomas.
-BQ332- BIOLOGIA DA REPRODUÇÃO ANIMAL A ELETIVO 45 0 45 3.0
-PRÉ-REQUISITO: Fórmula: ZO398
-ZO398- ANATOMIA COMPARADA
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Compreensão do funcionamento reprodutivo de aves e mamíferos, visando a aplicação nas futuras áreas de atuação dos alunos.
-BO396- BIOLOGIA DE ALGAS ELETIVO 30 30 60 3.0
-PRÉ-REQUISITO: Fórmula: BO386
-BO386- BOTÂNICA 1
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Origem, diversidade e evolução dos plastídios. Morfologia, ciclo de vida e diversidade das algas. Aspectos evolutivos e filogenéticos.
-Importância ecológica e econômica das algas.
-BO397- BIOLOGIA DE EPÍFITAS A ELETIVO 30 15 45 2.0
-PRÉ-REQUISITO: Fórmula: BO386 E BO388
-BO386 - BOTÂNICA 1
-BO388- BOTÂNICA 3
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: BO253
-BO253- BIOLOGIA DE EPIFITAS
-EMENTA: Terminologia e conceitos utilizados no estudo de epífitas. Diversidade de epífitas e adaptações ao hábito epifítico. Aspectos reprodutivos e
-ecofisiológicos das epífitas.
-ML352- BIOLOGIA DE MICRORGANISMOS FITOPATOGÊNICOS ELETIVO 30 15 45 2.0
-PRÉ-REQUISITO: Fórmula: INT0154
-INT0154- MICRORGANISMOS
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Introdução a fitopatologia. Características gerais, classificação, ciclo de vida, ciclo das relações patógeno-hospedeiro envolvendo os
-principais grupos de organismos causadores de doenças de plantas (Fungos, Bacterias, Vírus, Agentes Subvirais e Nematóides).
-Conhecimento das principais doenças de plantas de interesse econômico no Brasil e os danos que estas causam. Conhecimento dos
-princípios e métodos controle dos principais organismos causadores de doenças de plantas. Técnicas de laboratório para isolamento,
-identificação de organismos fitopatogênicos e realização de testes de patogenicidade.
-ZO406- BIOLOGIA MARINHA A ELETIVO 30 15 45 2.0
-PRÉ-REQUISITO: Não há Pré-Requisito para esse Componente Curricular.
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: ZO337
-ZO337- BIOLOGIA MARINHA
-EMENTA: Conceitos básicos em Biologia Marinha, considerando as diferentes comunidades da biota marinha.
-BQ333- BIOLOGIA MOLECULAR APLICADA À SAUDE ELETIVO 15 30 45 2.0
-PRÉ-REQUISITO: Fórmula: BQ329 E GN349
-BQ329 - BIOQUÍMICA 2
-GN349- GENÉTICA 2
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Dogma da biologia molecular. Genoma e epigenética. Vias de sinalização celular. Imunoterapia e Hormonioterapia. Terapia Gênica.
-Algoritmos e bioinformática. Desenvolvimento e validação de dispositivos de diagnóstico.
-ML353- BIOTECNOLOGIA UTILIZANDO FUNGOS A ELETIVO 30 15 45 2.0
-PRÉ-REQUISITO: Fórmula: ML341 E ML342
-ML341 - MICOLOGIA 1
-ML342- MICOLOGIA 2
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: ML325
-ML325- BIOTECNOLOGIA UTILIZANDO FUNGOS
-EMENTA: Abordagem sobre a biotecnologia utilizando fungos de interesse na indústria de alimentos, de bebidas, de detergentes, têxtil e
-farmacêutica; no meio ambiente e na agricultura. Apresentação das principais técnicas utilizadas para a seleção e preservação de fungos
-de interesse biotecnológico.
-INT0175- BIOÉTICA APLICADA A SAÚDE E BIOTECNOLOGIA ELETIVO 30 30 60 3.0
-PRÉ-REQUISITO: Fórmula: ML340
-ML340- BIOÉTICA
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Principios de Filosofia Moral e Ética aplicada. Fundamentos da ética e bioética; Bioética: antecedentes; Aspectos históricos no
-desenvolvimento das biotecnologias; Códigos nacionais e internacionais de ética científica; Questões éticas em Biotecnologia; Bioética dos
-limites da vida: medicina reprodutiva, pesquisa com células-tronco, aborto. Qualidade de final de vida e eutanásia. Eticidade dos
-transplantes de orgaos. Medicina Genômica e ética da eugenia. A eticidade da pesquisa em seres humanos. Bioética e sistemas de saúde,
-justica sanitária e alocação de reCursos em saúde. Processos éticos e responsabilidade civil na área de saúde, cultural, religiosa e
-bioética. Ética e propriedade intelectual; Plágio e Fraude; Biosseguranga; Legislações, Regulamentações e Normas em Biosseguranga;
-Estudos de caso.
-BO398- BOTÂNICA ECONÔMICA A ELETIVO 30 15 45 2.0
-PRÉ-REQUISITO: Fórmula: BO388
-BO388- BOTÂNICA 3
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-UNIVERSIDADE FEDERAL DE PERNAMBUCO
-PRÓ-REITORIA PARA ASSUNTOS ACADÊMICOS
-Curso: CIÊNCIAS BIOLÓGICAS - BACHARELADO
-Perfil: 5404-1
-Relatório Perfil Curricular
-DATA: 14/2/2020
-SIG@UFPE - Sistema de Informação e Gestão Acadêmica Página 11/18
-SEM PERIODIZAÇÃO
-COMPONENTE CURRICULAR TIPO CH TEÓRICA CH PRÁTICA CH TOTAL CRÉDITOS
-EQUIVALÊNCIA: Fórmula: BO260
-BO260- BOTANICA ECONOMICA
-EMENTA: A utilização de plantas pelo homem considerando aspectos econômicos, sociais, históricos, morfológicos, taxonômicos, ecológicos,
-genéticos e biotecnológicos; produtos principais para a alimentação humana e animal; indústria têxtil; farmacologia; setor energético, entre
-outras aplicações.
-ZO407- CARCINOLOGIA ELETIVO 45 0 45 3.0
-PRÉ-REQUISITO: Fórmula: ZO397 E ZO401
-ZO397 - ZOOLOGIA 2
-ZO401- SE EVOLUÇÃO DE INVERTEBRADOS
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Morfologia, biologia e filogenia de Crustacea. A fauna brasileira de Crustacea. Crustáceos de importânciaeconômica regional e mundial.
-INT0176- CITOTAXONOMIA E EVOLUÇÃO CROMOSSÔMICA ELETIVO 30 30 60 3.0
-PRÉ-REQUISITO: Fórmula: GN348
-GN348- GENÉTICA 1
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Bases teóricas e práticas da análise cariotípica, incluindo conhecimento sobre variação cromossômica numérica e estrutural, DNA
-repetitivo, heterocromatina e epigenética. Citotaxonomia e evolução cariotípica em animais e plantas.
-BO399- CIÊNCIA HOLÍSTICA A ELETIVO 30 15 45 2.0
-PRÉ-REQUISITO: Não há Pré-Requisito para esse Componente Curricular.
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Histórico dos paradigmas e métodos científicos desenvolvidos ao longo da história da humanidade e compreensão dos caminhos que
-levaram ao desenvolvimento do método científico vigente (método cartesiano). Será dada ênfase ao entendimento desse método, suas
-vantagens, pressupostos, linguagens (interpretação de gráficos e valores estatísticos) e percepção de suas limitações. A partir daí
-seguiremos com a emergência de um novo paradigma científico, o qual vem sendo respaldado pelas novas descobertas científicas,
-principalmente da Física Quântica. Esse novo paradigma vem sendo intitulado paradigma ecológico, holístico ou integrativo, e a partir dele
-surgiram novas metodologias científicas capazes de melhor apreender a complexidade do mundo real. Dentre estas novas metodologias
-desenvolveremos a observação fenomenológica e outras metodologias quali e quantitativas que têm permitido e co-emergido com o
-desenvolvimento de abordagens mais holísticas, como as aplicadas na Teoria Sistêmica, Teoria da Complexidade, dentre outras.
-ML354- COLEÇÕES MICOLÓGICAS ELETIVO 30 15 45 2.0
-PRÉ-REQUISITO: Fórmula: INT0154 E ML341 E ML342
-INT0154 - MICRORGANISMOS
-ML341 - MICOLOGIA 1
-ML342- MICOLOGIA 2
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Abordagem sobre a importância, o estabelecimento, o potencial científico, didático e de prestação de serviços das coleções micológicas.
-ML355- CONTROLE BIOLÓGICO ELETIVO 30 15 45 2.0
-PRÉ-REQUISITO: Fórmula: INT0154
-INT0154- MICRORGANISMOS
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Conceitos básicos de controle biológico por micro-organismos e insetos, mecanismos de controle e programas de controle biológico de
-insetos e doenças de plantas.
-ML356- CONTROLE BIOLÓGICO MICROBIANO ELETIVO 30 15 45 2.0
-PRÉ-REQUISITO: Fórmula: INT0154
-INT0154- MICRORGANISMOS
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Conceitos básicos de controle biológico por bactérias, vírus e fungos, relações ecológicas hospedeiro-patógeno-meio ambiente e
-programas de controle biológico de insetos e doenças de plantas.
-INT0182- DIAGNÓSTICO MOLECULAR ELETIVO 30 15 45 2.0
-PRÉ-REQUISITO: Fórmula: BQ328 E GN349
-BQ328 - BIOQUÍMICA 1
-GN349- GENÉTICA 2
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: A disciplina aborda os fundamentos da Biologia Molecular no contexto das modernas técnicas utilizadas em Laboratórios de Diagnóstico
-Molecular no Brasil e no mundo. As aulas práticas em laboratório sedimentam os conceitos abordados nas aulas teóricas com intuito de
-qualificar o aluno para um mercado de trabalho em ascensão e consolidação no país.
-BO400- DIVERSIDADE DE PLANTAS EM CAMPO ELETIVO 15 60 75 3.0
-PRÉ-REQUISITO: Fórmula: BO386 E BO388
-BO386 - BOTÂNICA 1
-BO388- BOTÂNICA 3
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Permitir o conhecimento sobre técnicas de coleta e manejo de amostras vegetais e reconhecimento rápido de campo e de laboratório dos
-principais grupos taxonômicos de plantas vasculares ocorrentes no país para uso em estudos biológicos diversos.
-BO401- ECOLOGIA DA RESTAURAÇÃO ELETIVO 30 15 45 2.0
-PRÉ-REQUISITO: Fórmula: INT0156 E INT0158
-INT0156 - ECOLOGIA 1
-INT0158- ECOLOGIA 2
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Ecologia da restauração oferece uma oportunidade de aplicar os conceitos de ecologia de comunidades e populações para a recuperação
-de ambientes degradados. É considerada uma disciplina inovadora com bastante aplicação nos tempos atuais devidos à necessidade de
-recuperação ambiental e compensação. Ainda, a disciplina estará focada no reflorestamento e entendimentos dos benefícios da
-restauração ecológica de florestas para o correto funcionamento dos ecossistemas e o bem-estar humano. Sua importância nas políticas
-ambientais e seu papel da geopolítica ambiental.
-BO402- ECOLOGIA DE BRIÓFITAS E PTERIDÓFITAS ELETIVO 30 30 60 3.0
-PRÉ-REQUISITO: Fórmula: BO388 E BO389
-BO388 - BOTÂNICA 3
-BO389- SE EVOLUÇÃO DE ALGAS, BRIÓFITAS E PTERIDÓFITAS
-UNIVERSIDADE FEDERAL DE PERNAMBUCO
-PRÓ-REITORIA PARA ASSUNTOS ACADÊMICOS
-Curso: CIÊNCIAS BIOLÓGICAS - BACHARELADO
-Perfil: 5404-1
-Relatório Perfil Curricular
-DATA: 14/2/2020
-SIG@UFPE - Sistema de Informação e Gestão Acadêmica Página 12/18
-SEM PERIODIZAÇÃO
-COMPONENTE CURRICULAR TIPO CH TEÓRICA CH PRÁTICA CH TOTAL CRÉDITOS
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Hábito, habitat, forma de crescimento e espectro ecológico das briófitas e pteridófitas. Estratégias adaptativas das briófitas e pteridófitas.
-Importância ecológica das briófitas e pteridófitas.
-ML357- ECOLOGIA DE FUNGOS A ELETIVO 30 15 45 2.0
-PRÉ-REQUISITO: Fórmula: ML341 E ML342
-ML341 - MICOLOGIA 1
-ML342- MICOLOGIA 2
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: ML220
-ML220- ECOLOGIA DE FUNGOS
-EMENTA: Aspectos básicos da ecologia considerando distribuição, aplicação e comportamento dos fungos em relação as formas de vida e ambiente
-onde ocorrem.
-BO403- ECOLOGIA DE PAISAGENS ELETIVO 30 15 45 2.0
-PRÉ-REQUISITO: Fórmula: INT0158
-INT0158- ECOLOGIA 2
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Ecologia de paisagens é uma disciplina que aborda definições e ferramentas acerca do conceito de paisagem como uma unidades de
-trabalho para os estudos da biodiversidade. Está focada em apresentação de conceitos e ferramentas que permitam definir, delimitar e
-descrever a estrutura de paisagens como forma de abordar seu papel na estruturação da biodiversidade em ambientes modificados pelo
-homem. Esse é um tema novo e muito usado na ecologia atual com importantes implicações para a conservação da biodivversidade.
-ZO408- ECOLOGIA DE PRAIAS ARENOSAS ELETIVO 30 15 45 2.0
-PRÉ-REQUISITO: Fórmula: INT0156 E INT0158
-INT0156 - ECOLOGIA 1
-INT0158- ECOLOGIA 2
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Introdução ao ambiente de praias arenosas e suas características ambientais e biológicas.
-BO404- ECOLOGIA QUÍMICA A ELETIVO 15 30 45 2.0
-PRÉ-REQUISITO: Não há Pré-Requisito para esse Componente Curricular.
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: BO362
-BO362- ECOLOGIA QUÍMICA
-EMENTA: Conhecer as principais classes de metabólitos secundários e sua importância na adaptação vegetal, interação planta-planta, planta-animal
-e planta-microrganismo
-AT303- ELEMENTOS DE MATEMÁTICA ELETIVO 45 0 45 3.0
-PRÉ-REQUISITO: Não há Pré-Requisito para esse Componente Curricular.
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Tópicos de matemática relevantes para as Ciências Biológicas.
-BC419- EMPREENDEDORISMO ELETIVO 30 0 30 2.0
-PRÉ-REQUISITO: Não há Pré-Requisito para esse Componente Curricular.
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: A formação do conceito de empreendedorismo na formação do biólogo com foco nas demandas atuais de sustentabilidade aliada aos
-conceitos de visão, oportunidade e criatividade.
-ZO409- ENTOMOLOGIA ELETIVO 15 30 45 2.0
-PRÉ-REQUISITO: Fórmula: ZO397
-ZO397- ZOOLOGIA 2
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Técnicas de coleta, preservação e armazenamento de insetos. Identificação dos agrupamentos taxonômicos das principais ordens de
-insetos.
-ZO410- ENTOMOLOGIA APLICADA ELETIVO 30 15 45 2.0
-PRÉ-REQUISITO: Não há Pré-Requisito para esse Componente Curricular.
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: A disciplina fomenta competências para o reconhecimento do valor econômico e cultural dos insetos para as sociedades humanas, sob
-uma perspectiva multidisciplinar, priorizando suas relações com a agricultura, medicina, ciências criminais, indústria e seus aspectos
-culturais.
-ZO411- ENTOMOLOGIA EM AGROECOSSISTEMAS ELETIVO 30 15 45 2.0
-PRÉ-REQUISITO: Fórmula: ZO397
-ZO397- ZOOLOGIA 2
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: O estudo dos insetos e ácaros que podem se tornar importantes no manejo de agroecossistemas, das principais espécies cultivadas e
-seus métodos de controle.
-ML358- EPIDEMIOLOGIA AMBIENTAL A ELETIVO 30 15 45 2.0
-PRÉ-REQUISITO: Não há Pré-Requisito para esse Componente Curricular.
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: ML326
-ML326- EPIDEMIOLOGIA AMBIENTAL
-EMENTA: Discussão do processo saúde-doença a luz do processo histórico social e dos principais indicadores usados na mensuração das
-enfermidades e agravos que acometem as populações levando em consideração a questão ambiental e sua relação com a condição de
-saúde humana. Aplicação dos fundamentos teóricos, metodológicos e técnicos necessários a utilização dos conhecimentos
-epidemiológicos na prática de pesquisa e ensino interdisciplinar em Saúde e Ambiente.
-BQ334- ERROS INATOS DO METABOLISMO ELETIVO 30 15 45 2.0
-PRÉ-REQUISITO: Fórmula: BQ329
-BQ329- BIOQUÍMICA 2
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Introdução a Erros Inatos do Metabolismo (EIM), defeito enzimáticos específicos com bloqueios de vias metabólicas e consequente
-UNIVERSIDADE FEDERAL DE PERNAMBUCO
-PRÓ-REITORIA PARA ASSUNTOS ACADÊMICOS
-Curso: CIÊNCIAS BIOLÓGICAS - BACHARELADO
-Perfil: 5404-1
-Relatório Perfil Curricular
-DATA: 14/2/2020
-SIG@UFPE - Sistema de Informação e Gestão Acadêmica Página 13/18
-SEM PERIODIZAÇÃO
-COMPONENTE CURRICULAR TIPO CH TEÓRICA CH PRÁTICA CH TOTAL CRÉDITOS
-acúmulo de substrato ou deficiência de um produto. Defeitos na ¿-oxidaydo, AcidemiasOrgâanicas, aminoacidopatias, defeitos no ciclo da
-uréia, Deficiência na produção ou utilização de energia e distúrbios de síntese ou catabolismo de moleculas complexas.
-BO405- ESPECIAÇÃO ELETIVO 30 15 45 2.0
-PRÉ-REQUISITO: Fórmula: GN350
-GN350- EVOLUÇÃO A
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Introdução à Especiação, processo evolutivo pelo qual novas espécies se formam; Discussão dos conceitos de anagênese (transformação
-gradual de uma espécie em outra) e cladogênese; Modos principais de especiação: alopátrica, simpátrica, parapátrica e peripátrica;
-Seleção artificial e especiação.
-ZO412- ETOLOGIA ELETIVO 15 30 45 2.0
-PRÉ-REQUISITO: Fórmula: ZO400
-ZO400- ZOOLOGIA 3
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: ZO313
-ZO313- ETOLOGIA (COMPORTAMENTO ANIMAL)
-EMENTA: fundamentos do estudo do comportamento animal, visando torná-los aptos para compreender com maior precisão as suas causas,
-funções, filogenia e ontogenia. Capacitação do aluno a descrever e quantificar a conduta dos animais.
-ML360- EXAMES MICOLÓGICOS A ELETIVO 15 30 45 2.0
-PRÉ-REQUISITO: Fórmula: INT0154 E ML341 E ML342
-INT0154 - MICRORGANISMOS
-ML341 - MICOLOGIA 1
-ML342- MICOLOGIA 2
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: ML327
-ML327- EXAMES MICOLÓGICOS
-EMENTA: Reconhecimento das manifestações clínicas, métodos de coleta de amostras clínicas, procedimentos laboratoriais para manipulação de
-amostras clínicas para exame direto e semeio ou inoculação em meios de cultura para obter o agente etiológico, interpretação e
-diagnóstico laboratorial de Micoses.
-GN356- FILOGENIA MOLECULAR E GENÔMICA COMPARATIVA ELETIVO 30 15 45 2.0
-PRÉ-REQUISITO: Fórmula: GN349 E GN350
-GN349 - GENÉTICA 2
-GN350- EVOLUÇÃO A
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Estrutura de genomas nos diferentes reinos (eubactérias, arquebactérias, protistas, fungos, animais e plantas). Principais componentes do
-genoma. Mecanismos de evolução gênica e genômica. Evolução de tamanho de genomas. Paradoxo do Valor C. Tendências evolutivas
-em diferentes grupos. Uso de códons (códon usage) e conteúdo GC. Genoma nuclear &amp;extranuclear. Classificação de genes em
-famílias. Homologia e conceitos relacionados (ortologia, paralogia, xenologia, etc.). Duplicação genômica completa
-(GenomeWideDuplication). Diploidização e eliminação gênica. Elementos móveis e sua importância. Coevolução. Transferência horizontal.
-Importância da epigenética na evolução de genomas. Seleção purificadora. Erosão gênica. Bioinformática da evolução genômica.
-Superárvores e sua aplicação
-FF271- FISIOLOGIA DA CONSERVAÇÃO ELETIVO 30 15 45 2.0
-PRÉ-REQUISITO: Fórmula: FF268
-FF268- FISIOLOGIA COMPARADA
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Uso dos conceitos fisiológicos para caracterizar a diversidade biológica e suas relações ecológicas. Entender e prever como organismos e
-populações respondem às mudanças ambientais e a estressores. Uso de conceitos e ferramentas de fisiologia na solução de problemas
-de conservação de grupos animais diversos.
-PO494- FUNDAMENTOS DA LÍNGUA BRASILEIRA DE SINAIS -
-LIBRAS
-ELETIVO 60 0 60 4.0
-PRÉ-REQUISITO: Não há Pré-Requisito para esse Componente Curricular.
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: REFLEXÃO SOBRE OS ASPECTOS HISTÓRICOS DA INCLUSÃO DAS PESSOAS SURDAS NA SOCIEDADE EM GERAL E NA
-ESCOLA; A LIBRAS COMO LÍNGUA DE COMUNICAÇÃO SOCIAL EM CONTEXTO DE COMUNICAÇÃO ENTRE PESSOAS SURDAS E
-COMO SEGUNDA LÍNGUA. ESTRUTURA LINGÜÍSTICA E GRAMATICAL DA LIBRAS. ESPECIFICIDADES DA ESCRITA DO ALUNO
-SURDO, NA PRODUÇÃO DE TEXTO EM LÍNGUA PORTUGUESA. O INTÉRPRETE E A INTERPRETAÇÃO COMO FATOR DE
-INCLUSÃO E ACESSO EDUCACIONAL PARA OS ALUNOS SURDOS OU COM BAIXA AUDIÇÃO.
-AT304- FUNDAMENTOS DE ANTIBIÓTICOS A ELETIVO 30 30 60 3.0
-PRÉ-REQUISITO: Fórmula: INT0154
-INT0154- MICRORGANISMOS
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: AT256
-AT256- FUNDAMENTOS DE ANTIBIOTICOS
-EMENTA: Fornecer conhecimentos essenciais sobre o use dos antibióticos, classificação e mecanismo de ação. Noções básicas sobre o
-conhecimento teórico-prático de isolamento e reconhecimento de actinobactérias produtoras de antibióticos. Extração de antibióticos
-produzidos por actinobactérias e vegetais superiores. Realização de testes de antagonismo.
-AT305- FUNDAMENTOS DE CANCEROLOGIA EXPERIMENTAL A ELETIVO 45 0 45 3.0
-PRÉ-REQUISITO: Fórmula: HE254
-HE254- BIOLOGIA CELULAR A
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: A disciplina tem como objetivo oferecer uma visão geral dos métodos de estudo empregados em cancerologia experimental. Abordando
-tumores experimentais, células de cancer "in vitro", drogas empregadas no tratamento do câncer e microambiente tumoral.
-ML361- FUNGOS DE INTERESSE ECONÔMICO ELETIVO 30 15 45 2.0
-PRÉ-REQUISITO: Fórmula: ML341 E ML342
-ML341 - MICOLOGIA 1
-ML342- MICOLOGIA 2
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-UNIVERSIDADE FEDERAL DE PERNAMBUCO
-PRÓ-REITORIA PARA ASSUNTOS ACADÊMICOS
-Curso: CIÊNCIAS BIOLÓGICAS - BACHARELADO
-Perfil: 5404-1
-Relatório Perfil Curricular
-DATA: 14/2/2020
-SIG@UFPE - Sistema de Informação e Gestão Acadêmica Página 14/18
-SEM PERIODIZAÇÃO
-COMPONENTE CURRICULAR TIPO CH TEÓRICA CH PRÁTICA CH TOTAL CRÉDITOS
-EMENTA: Abordagem geral sobre a importância dos fungos para os seres humanos e para a natureza: Fungos benéfieos e maléficos para os demais
-seres vivos e o ambiente; Fungos decompositores; Produção de compostos de interesse biotecnológico e de alimentos por fungos; Uso
-dos fungos pelas civilizacões; Fungos mutualistas e comensais; Fungos produtores de micotoxinas; Fungos parasitas de plantas, animais
-e humanos.
-GN357- GENÉTICA E CITOGENÉTICA HUMANA A ELETIVO 45 0 45 3.0
-PRÉ-REQUISITO: Fórmula: GN348
-GN348- GENÉTICA 1
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: GN314
-GN314- GENETICA E CITOGENETICA HUMANAS
-EMENTA: Estudo dos princípios fundamentais e dos assuntos atuais da genética e citogenética humana, a fim de fornecer uma base para estudos
-mais avançados sobre a Genética aplicada aos seres humanos, bem como a análise dos distúrbios genéticos
-GN358- GENÉTICA FORENSE A ELETIVO 15 30 45 2.0
-PRÉ-REQUISITO: Fórmula: GN349
-GN349- GENÉTICA 2
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: GN330
-GN330- GENÉTICA FORENSE
-EMENTA: Os perfis de DNA são elaborados através de observação laboratorial e representam o status biológico de cada indivíduo, identificado ou
-não. O DNA humano é constituído por cerca de três bilhões de bases nucleotídicas e dificilmente dois indivíduos geneticamente não
-relacionados exibirão determinados segmentos escolhidos idênticos. Notadamente alelos de STRs (VNTRs). Os segmentos escolhidos já
-possuem a característica de variabilidade requerida e observada necessária para as inferências estatísticas pertinentes. Assim sendo o
-aluno deverá caminhar pelos processos de coleta das amostras elegíveis para análise, cadeia de custódia, ensaios de genotipagem,
-tabulação de dados, análise e tomada de decisão, e chegar a um conjunto de informações que o orientem, no futuro, para uma escolha de
-especialização profissional apropriada. Serão apresentados os problemas que ensejam solução forense com apoio de perfis de DNA, a
-coleta de material pertinente, processamento até a apresentação do laudo pericial final.
-ZO413- HERPETOLOGIA ELETIVO 15 30 45 2.0
-PRÉ-REQUISITO: Fórmula: ZO400 E ZO402
-ZO400 - ZOOLOGIA 3
-ZO402- SE EVOLUÇÃO DE CHORDATA
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Aprofundamento de questões acerca da conquista do ambiente terrestre pelos Vertebrados introduzidas durante a disciplina Zoologia 3;
-Sistemática e taxonomia da classe Lissamphibia e das três ordens que a integram (Anura, Caudata e Gymnophiona); Aprofundamento de
-questões acerca da origem e diversificação de Amniota introduzidas durante a disciplina obrigatória Chordata 2; Sistemática e taxonomia
-de répteis (com exceção de Aves); Padrões biogeográficos de répteis e anfíbios na América do Sul.
-HE257- HISTOLOGIA E EMBRIOLOGIA DOS SISTEMAS A ELETIVO 30 30 60 3.0
-PRÉ-REQUISITO: Fórmula: HE255 E HE256
-HE255 - HISTOLOGIA GERAL A
-HE256- EMBRIOLOGIA GERAL A
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: HE227
-HE227- HISTOLOGIA E EMBRIOLOGIA ESPECIAL
-EMENTA: Estudo dos sistemas sob o ponto de vista morfológico, funcional e do desenvolvimento.
-GN359- IMUNOGENÉTICA ELETIVO 45 0 45 3.0
-PRÉ-REQUISITO: Fórmula: GN349
-GN349- GENÉTICA 2
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: A disciplina visa ampliar os conhecimentos sobre o sistema imunológico humano e as bases da imunogenética e suas implicações na
-susceptibilidade a doenças multifatoriais, como autoimunes e infecciosas.
-BO406- INTERAÇÃO PLANTA-ANIMAL A ELETIVO 15 30 45 2.0
-PRÉ-REQUISITO: Não há Pré-Requisito para esse Componente Curricular.
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: BO367
-BO367- INTERAÇÃO PLANTA-ANIMAL
-EMENTA: Apresentar e discutir temas relacionados a interação planta-animal essenciais para a formação de profissionais em Ecologia e
-conservação
-AT306- INTERAÇÃO PLANTA-BACTÉRIA A ELETIVO 15 30 45 2.0
-PRÉ-REQUISITO: Fórmula: INT0154
-INT0154- MICRORGANISMOS
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Propiciar conhecimentos da interação planta-bactéria no desenvolvimento do vegetal ou nos aspectos fitopatogênicos
-HE258- INTRODUÇÃO AO CULTIVO DE CÉLULAS A ELETIVO 30 15 45 2.0
-PRÉ-REQUISITO: Fórmula: HE254
-HE254- BIOLOGIA CELULAR A
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: HE230
-HE230- INTRODUCAO AO CULTIVO DE CELULAS
-EMENTA: Estudo dos conceitos básicos necessários a manutenção de uma cultura de células animais.
-INT0178- LIMNOLOGIA ELETIVO 30 30 60 3.0
-PRÉ-REQUISITO: Fórmula: ZO404
-ZO404- EC ECOLOGIA DE AMBIENTES AQUÁTICOS
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Estudo da estrutura e funcionamento dos ecossistemas límnicos. Aspectos e químicos da água e sedimento. Ecologia, estrutura e
-dinâmica das comunidades do plâncton, pleuston, neuston, bentos e necton. Algas tóxicas. Ecologia de Fito e zoobentos, perifíton,
-macrófitas aquáticas, peixes e demais vertebrados e decompositores. Impactos ambientais e resiliência das comunidades de a¿gua doce.
-Conservac¿a¿o dos corpos d¿a¿gua, comunidades ribeirinhas, conflitos socioambientais.
-UNIVERSIDADE FEDERAL DE PERNAMBUCO
-PRÓ-REITORIA PARA ASSUNTOS ACADÊMICOS
-Curso: CIÊNCIAS BIOLÓGICAS - BACHARELADO
-Perfil: 5404-1
-Relatório Perfil Curricular
-DATA: 14/2/2020
-SIG@UFPE - Sistema de Informação e Gestão Acadêmica Página 15/18
-SEM PERIODIZAÇÃO
-COMPONENTE CURRICULAR TIPO CH TEÓRICA CH PRÁTICA CH TOTAL CRÉDITOS
-GN360- MARCADORES MOLECULARES EM ANÁLISE GENÉTICA ELETIVO 15 30 45 2.0
-PRÉ-REQUISITO: Fórmula: GN349
-GN349- GENÉTICA 2
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Provimento das bases teóricas e práticas da geração e aplicação de marcadores moleculares em análises genéticas, incluindo o
-mapeamento genético e a caracterização da biodiversidade
-ZO414- MASTOZOOLOGIA A ELETIVO 30 15 45 2.0
-PRÉ-REQUISITO: Fórmula: ZO400 E ZO402
-ZO400 - ZOOLOGIA 3
-ZO402- SE EVOLUÇÃO DE CHORDATA
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: ZO369
-ZO369- MASTOZOOLOGIA
-EMENTA: Origem, evolução, sistemática, morfologia, ecologia, reprodução, e comportamento e conservação de Mammalia.
-ML363- MICOLOGIA DE CAMPO ELETIVO 15 30 45 2.0
-PRÉ-REQUISITO: Fórmula: ML341 E ML342
-ML341 - MICOLOGIA 1
-ML342- MICOLOGIA 2
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Reconhecimentos em campo dos substratos propícios aos fungos; reconhecimento dos fungos em campo; técnicas de coleta, isolamento,
-conservação e herborização dos fungos; reconhecimento de características macro e micromorfológicas de interesse na identificação dos
-fungos.
-ML364- MICOLOGIA MÉDICA A ELETIVO 30 15 45 2.0
-PRÉ-REQUISITO: Fórmula: ML341 E ML342
-ML341 - MICOLOGIA 1
-ML342- MICOLOGIA 2
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Compreensão da importância das boas práticas laboratoriais em um laboratório de Micologia Médica, das defesas dos hospedeiros frente
-aos fungos e condutas para o diagnóstico laboratorial de micoses.
-AT307- MICROBIOLOGIA AMBIENTAL A ELETIVO 15 30 45 2.0
-PRÉ-REQUISITO: Fórmula: BQ328 E INT0154 E INT0156
-BQ328 - BIOQUÍMICA 1
-INT0154 - MICRORGANISMOS
-INT0156- ECOLOGIA 1
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Apresentar aspectos de ecologia, fisiologia. bioquímica e genética microbiana. caracterização dos microrganismos em seus habitats
-naturais (água. solo e ar). interação e atividades microbianas: ciclos biogeoquímicos. biotecnologia do solo e biodegradação de diferentes
-polímeros.
-AT308- MICROBIOLOGIA AVANÇADA A ELETIVO 30 30 60 3.0
-PRÉ-REQUISITO: Fórmula: BQ328 E INT0154
-BQ328 - BIOQUÍMICA 1
-INT0154- MICRORGANISMOS
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Estudo de fisiologia e bioquímica microbiana e suas aplicações nas Ciências Biológicas
-AT309- MICROBIOLOGIA INDUSTRIAL ELETIVO 30 15 45 2.0
-PRÉ-REQUISITO: Fórmula: BQ328 E INT0154
-BQ328 - BIOQUÍMICA 1
-INT0154- MICRORGANISMOS
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Aplicação dos conhecimentos da Microbiologia, Bioquímica, Fisiologia e Genética na obtenção industrial de produtos deinteresse
-econômico, principalmente nas indúustrias de produção de bioetanol, bebidas alcóolicas, alimentos, fármacos, bem como no tratamento de
-efluentes orgânicos.
-GN361- MUTAGÊNESE AMBIENTAL ELETIVO 30 15 45 2.0
-PRÉ-REQUISITO: Fórmula: GN349
-GN349- GENÉTICA 2
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: A disciplina discorre sobre os conceitos básicos de mutações e tipos de mutações, bem como os mecanismos físicos e químicos
-associados às mesmas. A disciplina ainda conceitua os mecanismos de mutagênese química e física assim como a classificação e modo
-de ação dos agentes genotóxicos. Ainda traz os conceitos de biomonitoramento de compostos genotóxicos no ambiente e ecotoxicologia
-dos agrotóxicos. Oferecer ao aluno conhecimento sobre os métodos de avaliação e gerenciamento de risco e mutagênese ambiental e na
-carcinogênese humana bem como os principais processos de reparo de DNA e métodos utilizados na avaliação do potencial
-mutagênico/antimutagênico de compostos ambientais utilizando ensaios com cultura de células e com o sistema-teste Allium cepa.
-GN362- MUTAGÊNESE APLICADA À SAÚDE ELETIVO 30 15 45 2.0
-PRÉ-REQUISITO: Fórmula: GN349
-GN349- GENÉTICA 2
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Esta disciplina apresenta os fundamentos da toxicologia, incluindo os processos de intoxicação; avaliação toxicológica e efeitos da
-toxicidade. São estudadas as mutações, seus agentes mutagênicos e os processos de reparo de DNA bem como os testes utilizados para
-avaliação da toxicidade, citotoxicidade, genotoxicidade e mutagenicidade. Adicionalmente, é mostrada a importância da mutagênese
-ambiental na carcinogênese humana.
-BO407- MÉTODOS DE ANÁLISES FILOGENÉTICAS ELETIVO 15 30 45 2.0
-PRÉ-REQUISITO: Fórmula: INT0167
-INT0167- SE SISTEMÁTICA FILOGENÉTICA
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Disponibilizar ao aluno a prática na interpretação e métodos de análise de métodos contemporâneos em Filogenia Molecular, incluindo
-discussões sobre conceitos em cladística, fontes de evidências para a sistemática, métodos de inferência filogenética, relógio molecular e
-UNIVERSIDADE FEDERAL DE PERNAMBUCO
-PRÓ-REITORIA PARA ASSUNTOS ACADÊMICOS
-Curso: CIÊNCIAS BIOLÓGICAS - BACHARELADO
-Perfil: 5404-1
-Relatório Perfil Curricular
-DATA: 14/2/2020
-SIG@UFPE - Sistema de Informação e Gestão Acadêmica Página 16/18
-SEM PERIODIZAÇÃO
-COMPONENTE CURRICULAR TIPO CH TEÓRICA CH PRÁTICA CH TOTAL CRÉDITOS
-métodos de reconstrução de caracteres.
-FF272- MÉTODOS E MODELOS BIOLÓGICOS EM FARMACOLOGIA ELETIVO 15 30 45 2.0
-PRÉ-REQUISITO: Fórmula: FF268 E FF270
-FF268 - FISIOLOGIA COMPARADA
-FF270- BS FARMACOLOGIA BÁSICA
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Introduzir o estudante de Ciências Biológicas aos princípios básicos que fundamentam a pesquisa na área da Farmacologia pré-clínica,
-discutindo os principais métodos in vivo e in vitro, modelos biológicos e seus aspectos bioéticos, além da elaboração e interpretação de
-protocolos experimentais utilizados em farmacologia, evidenciando o interesse e importância desse conhecimento nas atividades
-profissionais do biólogo.
-ML362- MÉTODOS EM MICOLOGIA ELETIVO 30 15 45 2.0
-PRÉ-REQUISITO: Fórmula: ML341 E ML342
-ML341 - MICOLOGIA 1
-ML342- MICOLOGIA 2
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Manipulação de vidrarias e equipamentos de laboratório, elaboração de meios de cultura, soluções e corantes, métodos de isolamento e
-purificação de fungos, técnicas de inoculação de fungos em meios de cultura, métodos de contagem de fungos, micrometria.
-OC523- OCEANOGRAFIA GERAL A ELETIVO 30 30 60 3.0
-PRÉ-REQUISITO: Não há Pré-Requisito para esse Componente Curricular.
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: OC313
-OC313- OCEANOGRAFIA GERAL
-EMENTA: As grandes expedições oceanográficas; conceitos e divisões da oceanografia, principais oceanos e mares; origem e características gerais
-do ambiente marinho; ciclo geral da matéria orgânica; planejamento de pesquisas oceanográficas; metodologia e instrumentação científica
-utilizadas.
-ZO415- ORNITOLOGIA DE CAMPO ELETIVO 15 30 45 2.0
-PRÉ-REQUISITO: Fórmula: ZO400 E ZO402
-ZO400 - ZOOLOGIA 3
-ZO402- SE EVOLUÇÃO DE CHORDATA
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Bases para a identificação e estudo da avifauna no nordeste do Brasil.
-GE580- PALEONTOLOGIA DE CAMPO ELETIVO 15 30 45 2.0
-PRÉ-REQUISITO: Fórmula: GE579
-GE579- PALEONTOLOGIA
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Proporcionar através de aulas teóricas e práticaso aprendizado de técnicas e métodos da prospecção e coleta de fósseis, reconhecimento
-e descrição básica de rochas sedimentares fossilíferas. Aplicação de técnicas em levantamento de seções estratigráficas e aplicação em
-campo dos conceitos básicos de tafonomia.
-BO408- PLANTAS MEDICINAIS E TÓXICAS ELETIVO 15 30 45 2.0
-PRÉ-REQUISITO: Fórmula: BO388
-BO388- BOTÂNICA 3
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Histórico das plantas medicinais e tóxicas; Caracterização morfológica e sistemática dos principais grupos botânicos medicinais e tóxicos;
-Etnobotânica e etnofarmacologia; Validação de plantas medicinais; Principais princípios ativos medicinais e tóxicos; Cultivo, preparo e
-indicações terapêuticas de plantas medicinais; Conhecimento popular e científico sobre as propriedades terapêuticas de espécies
-medicinais e tóxicas; Obtenção e análise de extratos.
-BO409- POLINIZAÇÃO E REPRODUÇÃO DE ANGIOSPERMAS ELETIVO 15 30 45 2.0
-PRÉ-REQUISITO: Fórmula: BO386 E BO388
-BO386 - BOTÂNICA 1
-BO388- BOTÂNICA 3
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Apresentar e discutir temas relacionados à Biologia Reprodutiva de Angiospermas essenciais para a formação de profissionais em
-Ecologia e conservação.
-AT310- QUÍMICA E MÉTODOS DE ANÁLISE ESTRUTURAL EM
-PRODUTOS NATURAIS
-ELETIVO 45 0 45 3.0
-PRÉ-REQUISITO: Fórmula: AT296
-AT296- INTRODUÇÃO AO LABORATÓRIO
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Introduzir os alunos nas principais classes de produtos naturais de plantas e microrganismos e mostrar os fundamentos e as técnicas
-espectroscópicas utilizadas na identificação dos mesmos
-GN364- RECURSOS E BANCOS GENÉTICOS ELETIVO 30 30 60 3.0
-PRÉ-REQUISITO: Fórmula: GN349
-GN349- GENÉTICA 2
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Recursos genéticos no Brasil. Utilização dos recursos genéticos (especies silvestres e exóticas). Manipulação genética. Centros de origem
-e diversidade genética. Bases genéticas da diversidade. Sistemas de curadorias e germoplasma. Intercâmbio e quarentena. Princípios da
-coleta e amostragern de reCursos genéticos. Caracterização e avaliação dos reCursos genéticos_ Fundamentos da caracterização
-citogenética e molecular dos reCursos genéticos. Conservacaoin situ e ex situ de reCursos genéticos autóctones e exóticos_ Análises
-multivariadas para estimativas das distâncias genéticas, construção de dendrogramas e interpretação dos resultados. Tipos de coleção.
-Pré-melhoramento. Documentação e informatização dos recursos genéticos. Legislação e proteção de germoplasma.
-GN365- REGULAÇÃO DA EXPRESSÃO GÊNICA E EPIGENÉTICA ELETIVO 45 0 45 3.0
-PRÉ-REQUISITO: Fórmula: GN349
-GN349- GENÉTICA 2
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: A disciplina visa oferecer aos alunos os conceitos básicos relacionados aos principais mecanismos de regulação da transcrição e
-processamento do RNA, da tradução e modificações pós-traducionais, e dos mecanismos genéticos através dos quais a expressão gênica
-UNIVERSIDADE FEDERAL DE PERNAMBUCO
-PRÓ-REITORIA PARA ASSUNTOS ACADÊMICOS
-Curso: CIÊNCIAS BIOLÓGICAS - BACHARELADO
-Perfil: 5404-1
-Relatório Perfil Curricular
-DATA: 14/2/2020
-SIG@UFPE - Sistema de Informação e Gestão Acadêmica Página 17/18
-SEM PERIODIZAÇÃO
-COMPONENTE CURRICULAR TIPO CH TEÓRICA CH PRÁTICA CH TOTAL CRÉDITOS
-é modulada particularmente em organismos procariotos e eucariotos. A disciplina visa ainda, oferecer aos alunos os conceitos básicos da
-epigenética e dos mecanismos envolvidos na regulação da expressão gênica em eucariotos, bem como as principais técnicas de análise e
-interferência em tais processos biológicos
-ML365- SAÚDE E EDUCAÇÃO SEXUAL A ELETIVO 15 30 45 2.0
-PRÉ-REQUISITO: Não há Pré-Requisito para esse Componente Curricular.
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: A construção do conhecimento será trabalhada através de atividades teóricas e práticas que propiciam embasamento cognitivo, reflexão
-crítica, auto-conhecimento, respeito ao outro, responsabilidade e comprometimento , condições estas imprescindíveis ao trabalho do
-educador. As atividades teóricas compreendem discussão dos temas propostos no programa da disciplina sob forma de exposições
-participadas, palestras e mesas redondas. As atividades práticas correspondem à realização de seminários, elaboração de um artigo ou
-resumo a partir de bibliografia e uma produção criativa, visandoo aprofundamento de questões relativas aos objetivos propostos.
-GN366- SEMINÁRIO EM GENÉTICA A ELETIVO 30 0 30 2.0
-PRÉ-REQUISITO: Fórmula: GN349
-GN349- GENÉTICA 2
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EQUIVALÊNCIA: Fórmula: GN316
-GN316- SEMINARIO EM GENETICA
-EMENTA: Abordagem de temas atuais de Genética e Biologia Molecular em organismos distintos, como microorganismos, o homem e outros animais
-e vegetais. Os temas serão abordados através da participação ativa dos alunos, desde a sua escolha até a apresentação de seminários de
-textos especializados
-FF273- TENDÊNCIAS TECNO-CIENTÍFICAS EM BIOLOGIA E SAÚDE
-A
-ELETIVO 30 15 45 2.0
-PRÉ-REQUISITO: Não há Pré-Requisito para esse Componente Curricular.
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Conceitos e avanços na área de biologia e saúde corn enfoque para as neurociêcias; Principais desafios em neurociêcia, tais como
-doenças neurológicas como Parkinson, Epilepsia e as possíveis soluções tecnológicas; Ligando e desligando circuitos neurais através de
-optogenética, quimiogenética e implante de células tronco. Técnicas para detecção precoce de doenças neurológicas. Quimiosensores e
-nanotecnologia
-FF274- TENDÊNCIAS TECNO-CIENTÍFICAS EM BIOLOGIA E SAÚDE
-B
-ELETIVO 15 30 45 2.0
-PRÉ-REQUISITO: Fórmula: FF273
-FF273- TENDÊNCIAS TECNO-CIENTÍFICAS EM BIOLOGIA E SAÚDE A
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Conceitos e avanços na área de robótica aplicada a biologia e saúde; interface cérebro-máquina; Introdução a área de robótica com
-inteligência artificial e aprendizado de máquina e dispositivos operados em função da atividade elétrica muscular e cerebral.
-ZO417- TESTES ECOTOXICOLÓGICOS PARA AVALIAÇÃO DA
-POLUIÇÃO
-ELETIVO 15 30 45 2.0
-PRÉ-REQUISITO: Não há Pré-Requisito para esse Componente Curricular.
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Conceitos básicos de poluição e ecotoxicologia. Bases biológicas dos diferentes tipos de testes utilizados em ecotoxicologia, enfocando
-suas aplicações e limitações. Planejamento, execução e análise dos resultados de um teste
-AT311- TOXICOLOGIA ELETIVO 30 15 45 2.0
-PRÉ-REQUISITO: Não há Pré-Requisito para esse Componente Curricular.
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Histórico da toxicologia; Agente tóxico; Toxicidade e intoxicação. Características da exposição a xenobóticos. Toxicocinética.
-Toxicodinâmica. Toxicologia dos medicamentos. Toxicologia ambiental. Toxicologia ocupacional. Toxicologia social
-ZO416- TÉCNICAS DE CAMPO EM ECOSSISTEMAS AQUÁTICOS ELETIVO 15 30 45 2.0
-PRÉ-REQUISITO: Fórmula: ZO404
-ZO404- EC ECOLOGIA DE AMBIENTES AQUÁTICOS
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Ambientes de amostragem. Amostragem em oceanografia e limnologia. Amostragens para estudos de organismosplanctônicos, bentônicos
-e nectônicos.
-ZO418- ZOOLOGIA DE CAMPO: AMBIENTES TERRESTRES ELETIVO 15 30 45 2.0
-PRÉ-REQUISITO: Fórmula: ZO397 E ZO400
-ZO397 - ZOOLOGIA 2
-ZO400- ZOOLOGIA 3
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: A disciplina abordará os principais aspectos das atividades de campo em ambientes terrestres, desde o delineamento das amostragens
-até a coleta de dados de diversos grupos zoológicos. Introduzirá as principais técnicas de amostragem de espécimes de vertebrados e
-invertebrados terrestres, em ambiente natural, proporcionando experiências práticas ao aluno acerca das atividades do zoólogo em
-campo.
-ML359- ÉTICA AMBIENTAL ELETIVO 30 15 45 2.0
-PRÉ-REQUISITO: Fórmula: ML340
-ML340- BIOÉTICA
-CO-REQUISITO: Não há Co-Requisito para esse Componente Curricular.
-EMENTA: Questões éticas relacionadas a agricultura, às áreas de proteção ambiental e aos ambientes urbanos.
-OBSERVAÇÃO PERFIL: CARGA HORÁRIA TOTAL DO CURSO É DE 3.585 HORAS DISTRIBUÍDAS DA SEGUINTE FORMA: O ALUNO CURSARÁ 2.070
-HORAS EM COMPONENTES OBRIGATÓRIOS, 450 HORAS EM COMPONENTES ELETIVOS DE UMA DAS MODALIDADES DE
-FORMAÇÃO ESPECIALIZADA CONSTANTE NO EIXO QUE SÃO: BIOLOGIA APLICADA À SAÚDE-BS, BIOTECNOLOGIA E
-BIOINFORMÁTICA-BI, SISTEMÁTICA E EVOLUÇÃO-SE, ECOLOGIA E CONSERVAÇÃO-EC. 675 HORAS EM COMPONENTES
-ELETIVOS LIVRES - 30 HORAS EM ATIVIDADES COMPLEMENTARES, E 360 HORAS DE AÇÕES CURRICULARES DE EXTENSÃO.
-TODO ALUNO VINCULADO AO PERFIL OBRIGATORIAMENTE PARTICIPARÁ DE ATIVIDADES COMPLEMENTARES, QUE PODEM
-SER DE MONITORIA, EXTENSÃO, INICIAÇÃO CIENTÍFICA E OUTRAS NO TOTAL DE 30 HORAS.
-UNIVERSIDADE FEDERAL DE PERNAMBUCO
-PRÓ-REITORIA PARA ASSUNTOS ACADÊMICOS
-Curso: CIÊNCIAS BIOLÓGICAS - BACHARELADO
-Perfil: 5404-1
-Relatório Perfil Curricular
-DATA: 14/2/2020
-SIG@UFPE - Sistema de Informação e Gestão Acadêmica Página 18/18
+
+ 
+
+ 
+
+ 
+
+MA305-CURVAS ALGÉBRICAS PLANAS L
+
+ELETIVO
+
+60
+
+0
+
+60
+
+4.0
+
+PRÉ-REQUISITO: MA248-ESTRUTURAS ALGÉBRICAS L1A
+
+ 
+
+ 
+
+ 
+
+FI425-ELETROMAGNETISMO L1
+
+ELETIVO
+
+60
+
+0
+
+60
+
+4.0
+
+FI204-FÍSICA L3
+
+ELETIVO
+
+60
+
+0
+
+60
+
+4.0
+
+MA306-GEOMETRIA DIFERENCIAL L
+
+ELETIVO
+
+60
+
+0
+
+60
+
+4.0
+
+PRÉ-REQUISITO: MA018-CÁLCULO L3A
+
+MA303-MATEMÁTICA DISCRETA
+
+ELETIVO
+
+60
+
+0
+
+60
+
+4.0
+
+PRÉ-REQUISITO: MA1058-PRINCÍPIOS DE CONTAGEM
+
+FI206-MECÂNICA L1
+
+ELETIVO
+
+60
+
+0
+
+60
+
+4.0
+
+FI584-MÉTODOS MATEMÁTICOS DA FÍSICA L1
+
+ELETIVO
+
+60
+
+0
+
+60
+
+4.0
+
+MA304-TEORIA DOS NÚMEROS L
+
+ELETIVO
+
+60
+
+0
+
+60
+
+4.0
+
+PRÉ-REQUISITO: MA248-ESTRUTURAS ALGÉBRICAS L1A
+
+MA302-TOPICOS DE GEOMETRIA ELEMENTAR
+
+ELETIVO
+
+60
+
+0
+
+60
+
+4.0
+
+PRÉ-REQUISITO: MA1055-GEOMETRIA ESPACIAL
+
+MA1061-TÉCNICAS DE RESOLUÇÃO DE PROBLEMAS
+
+ELETIVO
+
+60
+
+0
+
+60
+
+4.0
